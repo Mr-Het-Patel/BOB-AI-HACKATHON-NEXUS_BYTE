@@ -49,9 +49,9 @@ submission:
       - "Next.js"
       - "React"
       - "LightGBM"
-      - "SHAP"
-      - "Zustand"
-    ibm_technologies: []
+    ibm_technologies:
+      - "IBM Bob"
+      - "watsonx.ai"
     databases: []
     other:
       - "NumPy"

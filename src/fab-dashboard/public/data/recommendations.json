@@ -1,0 +1,2102 @@
+[
+  {
+    "lot_id": "LOT_0004",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.271576269004004
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.2321168785794947
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.547331489626935
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0013",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.4895626612737
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0301410663695922
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -0.9384713150762013
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0014",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.10289426337767
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.1368648205445784
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.618816658466387
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0016",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.4322365950229
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.007997387637341
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.48983021301269136
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0017",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -11.16523329359847
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.3569782210682162
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.7520825910355482
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0023",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.599933539585287
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0511717341055198
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.7876677600451706
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0024",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.50695777056652
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5878579644883417
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5708780675049195
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0036",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.21853519015181
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 0.9340191246714892
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.19789773747713038
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0037",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.511053891072034
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 0.996702628710286
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5491576703708214
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0041",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -17.9903644398482
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.1668686542978175
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.6341707433408754
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0045",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.029657682444412
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0011249103113113
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -0.8998978083850465
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0048",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.692111384349673
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 0.9899890836821442
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5579240901101782
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0050",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.62102854650513
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.016546226912253
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.7285136740526237
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0052",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.50199675449358
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 0.9836133032120445
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5478563513199224
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0053",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.50199675449358
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0082965420097385
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5478563513199224
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0058",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.820013146579363
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0184136832825679
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.7373504178836209
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0064",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.91530298062283
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0198062539800776
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5449832267837015
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0072",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.45815214370459
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.6312674726129712
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.568560995558605
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0080",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.462635811181812
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0033836085056527
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5925811937376246
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0082",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -17.91366130573266
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5644677536862437
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.23284659445701322
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0084",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.709652164545783
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.644678479216014
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5765975303362021
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0099",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.342652787704946
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.168818422910124
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.6154566519722137
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0102",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.91530298062283
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0279968599998364
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.511079619939781
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0108",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.38327133788603
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.2309596824898308
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5521679291527147
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0111",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.37603276736464
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.1347358393972558
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.6205076762092515
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0112",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.462246812971383
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.6312674726129712
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.568560995558605
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0113",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.511053891072034
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0205956721805125
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5491576703708214
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0115",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.91530298062283
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0078965437148368
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.511079619939781
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0117",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -17.923520010223083
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.1639017303785473
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5398033720938317
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0120",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.175361497064447
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -0.7282037348950033
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5632346168101017
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0126",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.431450583833232
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 0.9816108443590903
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5925811937376246
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0136",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.357475130279063
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 0.9836798224347656
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5560455667439518
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0137",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.91530298062283
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0316335883724488
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5449832267837015
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0141",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.348279460373412
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.46050314943977044
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.4353051316300475
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0143",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.241678720018488
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.2309596824898308
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5498762685924852
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0149",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.453209427015288
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -0.7037313853927245
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.6340606237792052
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0151",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.503888285963395
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5661128190797083
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5106152026086342
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0173",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.16065999250041
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.1639017303785473
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.544483053432217
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0175",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.91530298062283
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0089256445810462
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5046401746975016
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0177",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.91530298062283
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.028683519895811
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5449832267837015
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0182",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.233931963876742
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.2048485086339835
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.6207888994567499
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0184",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.50199675449358
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0037136194970442
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5478563513199224
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0186",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.38327133788603
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.2290621614540505
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5526517142676984
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0187",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.456106302412433
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -0.7298425592485717
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5626865337314946
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0190",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.483765124598882
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0033836085056527
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5925811937376246
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0194",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.153510606108167
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.2309596824898308
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5498762685924852
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0195",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.716318380548596
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.00508289320444
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5361464829527044
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0215",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.47339243631019
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5909258689841591
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5784654605520914
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0217",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.00301275278764
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.1915954227043244
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5673018615143044
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0230",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.478132393002543
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 0.9960035388354682
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5938825127885237
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0233",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.27320279157997
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.2290621614540505
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5526517142676984
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0236",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.153510606108167
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.2290621614540505
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5503862067523788
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0259",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.716318380548596
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0165072724896238
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5361464829527044
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0275",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.272977270790875
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 0.9851164887371523
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5409707811027793
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0280",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.91530298062283
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0089256445810462
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5046401746975016
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0283",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.45374989834907
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 0.9951930024858933
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5925811937376246
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0288",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.91530298062283
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.006950349574755
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5449832267837015
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0296",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.914994660767597
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.027299115797727
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5442309993216282
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0302",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.472659704839014
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5784654605520914
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5754450054450795
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0303",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.692111384349673
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0035712418089473
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5356247755943399
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0309",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.16065999250041
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.2547569335380506
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5485493356859402
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0310",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.354764161351806
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.2274885635925394
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.6226764374271947
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0317",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.42371529685015
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5902618367187358
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5727205863347238
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0322",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.03275531010261
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.1834870682116594
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5451063982250641
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0326",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.37722228309068
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -0.7298425592485717
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5633562256429342
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0328",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.240391742019696
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.2792700890226207
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5486763833952573
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0332",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.50138354471929
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5878579644883417
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5708780675049195
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0333",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.409750612733195
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.612000724339073
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5743058697759725
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0339",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.204212615940524
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 0.978595755464668
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5523312205252743
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0344",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.209827091698553
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 0.9900515940011491
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.17504182422899764
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0347",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.409937280507062
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0012584955361445
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5494061724783508
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0350",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -17.91316335181127
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.2361029902276297
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5420341593319437
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0358",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.89135023583537
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0205053438548954
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5437092919632636
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0360",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.42371529685015
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5811625280027166
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.4390740571905377
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0361",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.466812806394177
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0082965420097385
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5472758405064331
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0367",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.406350873357862
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.6011867254949177
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.4476148671879945
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0374",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.156565323233618
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.2321168785794947
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.547331489626935
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0378",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.5237788305654
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.648471441831538
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.568560995558605
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0380",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.431450583833232
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 0.9816108443590903
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5925811937376246
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0389",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.402513343451915
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0228335942580613
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -0.9384713150762013
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0391",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -12.848536060799328
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": -5.572718709776488
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.4194277297011909
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0396",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.45374989834907
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0024374143655705
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5925811937376246
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0413",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.231981536604238
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5545491978622852
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.4017000631088483
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0414",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.199992003417954
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5791057834644122
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5666592727023779
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0415",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.91530298062283
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0082265547062284
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5046401746975016
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0425",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.50199675449358
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.030947082508717
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5478563513199224
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0434",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.48667139641856
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 0.9823370980805708
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5478563513199224
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0445",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.24473343714394
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.234014399615275
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5498762685924852
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0446",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -17.847123770075548
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.1821692728372624
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.4825686636044175
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0448",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.91530298062283
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0316335883724488
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5449832267837015
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0455",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.56473165006343
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.008202662726647
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.7850613531757361
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0457",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.820013146579363
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0469122941930498
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.8050734244136424
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0465",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.117298475552886
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.2426094954203668
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5546363824982674
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0471",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.28553510575048
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.201672330479763
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.6245739584629747
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0479",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.147196024538403
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.2188023708379345
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5387178046466524
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0481",
+    "source": "historical",
+    "true_cause": "rf_instability",
+    "recommendation": "High variance across the RF power time series points to impedance matching instability, causing inconsistent plasma strike and etch non-uniformity. Check match network capacitor wear and RF cable connections; run an RF stability qualification.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -18.52515689197623
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5847139024178513
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5797576332456852
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0484",
+    "source": "historical",
+    "true_cause": "particle_spike",
+    "recommendation": "A sharp transient in sensor telemetry indicates a particle event, likely from a flaking deposit or arcing in the chamber. Inspect chamber liner and baffle for deposition buildup; perform wet clean before resuming.",
+    "top_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": -17.95705074960875
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -1.1214601890731535
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.5409348814923178
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0487",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.820013146579363
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0268119779080502
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.8050734244136424
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0491",
+    "source": "historical",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.48667139641856
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 0.9823370980805708
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.5478563513199224
+      }
+    ]
+  },
+  {
+    "lot_id": "LOT_0497",
+    "source": "historical",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.370423443209134
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.0016674059107886
+      },
+      {
+        "feature_name": "sensor_max",
+        "shap_value": -0.9384713150762013
+      }
+    ]
+  },
+  {
+    "lot_id": "UPCOMING_16",
+    "source": "upcoming",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.915303
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.030167
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.544983
+      }
+    ]
+  },
+  {
+    "lot_id": "UPCOMING_17",
+    "source": "upcoming",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.486671
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.010137
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.547856
+      }
+    ]
+  },
+  {
+    "lot_id": "UPCOMING_18",
+    "source": "upcoming",
+    "true_cause": "pressure_drift",
+    "recommendation": "Elevated chamber pressure (>9 Torr) drives non-uniform plasma density, causing edge-to-center etch rate variation and yield loss. Recommend MFC calibration check and pressure controller PID re-tuning before releasing this lot.",
+    "top_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.820013
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.03127
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.73735
+      }
+    ]
+  },
+  {
+    "lot_id": "UPCOMING_19",
+    "source": "upcoming",
+    "true_cause": "temp_excursion",
+    "recommendation": "Chuck temperature above 235 \u00b0C accelerates photoresist reflow, widening critical dimensions beyond spec and degrading pattern fidelity. Verify ESC clamp voltage and coolant flow rate; hold lot pending thermal audit.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.246009
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 0.988986
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.588494
+      }
+    ]
+  },
+  {
+    "lot_id": "UPCOMING_20",
+    "source": "upcoming",
+    "true_cause": "pressure_drift+temp_excursion",
+    "recommendation": "This lot shows simultaneous pressure overshoot and thermal excursion, compounding etch non-uniformity and resist flow defects. Quarantine lot; run full chamber qualification (thermal, pressure, and RF) before next run.",
+    "top_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -9.136956
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": -8.55498
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 0.688574
+      }
+    ]
+  }
+]

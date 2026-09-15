@@ -1,0 +1,542 @@
+[
+  {
+    "upcoming_lot_id": "UPCOMING_01",
+    "predicted_yield": 94.7178,
+    "risk_tier": "low",
+    "top_3_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.982667
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 1.228468
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 1.176135
+      }
+    ],
+    "planned_params": {
+      "temperature": 206.8911,
+      "pressure": 4.9285,
+      "rf_power": 1325.4952,
+      "gas_flow": 54.717,
+      "etch_time": 78.483
+    },
+    "fault_hint": null
+  },
+  {
+    "upcoming_lot_id": "UPCOMING_02",
+    "predicted_yield": 94.127,
+    "risk_tier": "low",
+    "top_3_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.93644
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 1.180672
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 1.161319
+      }
+    ],
+    "planned_params": {
+      "temperature": 202.6247,
+      "pressure": 3.7857,
+      "rf_power": 546.6957,
+      "gas_flow": 198.5941,
+      "etch_time": 30.4095
+    },
+    "fault_hint": null
+  },
+  {
+    "upcoming_lot_id": "UPCOMING_03",
+    "predicted_yield": 95.0718,
+    "risk_tier": "low",
+    "top_3_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.983851
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 1.23583
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 1.183582
+      }
+    ],
+    "planned_params": {
+      "temperature": 210.7917,
+      "pressure": 6.4806,
+      "rf_power": 877.4389,
+      "gas_flow": 124.1221,
+      "etch_time": 85.7369
+    },
+    "fault_hint": null
+  },
+  {
+    "upcoming_lot_id": "UPCOMING_04",
+    "predicted_yield": 94.0301,
+    "risk_tier": "low",
+    "top_3_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.940791
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 1.164503
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.447186
+      }
+    ],
+    "planned_params": {
+      "temperature": 195.8182,
+      "pressure": 7.8437,
+      "rf_power": 1024.4147,
+      "gas_flow": 64.042,
+      "etch_time": 78.7985
+    },
+    "fault_hint": null
+  },
+  {
+    "upcoming_lot_id": "UPCOMING_05",
+    "predicted_yield": 94.7418,
+    "risk_tier": "low",
+    "top_3_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.970333
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 1.246056
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 1.162758
+      }
+    ],
+    "planned_params": {
+      "temperature": 188.4675,
+      "pressure": 5.3261,
+      "rf_power": 792.2691,
+      "gas_flow": 172.4214,
+      "etch_time": 79.6826
+    },
+    "fault_hint": null
+  },
+  {
+    "upcoming_lot_id": "UPCOMING_06",
+    "predicted_yield": 94.4211,
+    "risk_tier": "low",
+    "top_3_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.954453
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 1.276838
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 1.14976
+      }
+    ],
+    "planned_params": {
+      "temperature": 188.8631,
+      "pressure": 5.869,
+      "rf_power": 595.1816,
+      "gas_flow": 111.7495,
+      "etch_time": 35.8119
+    },
+    "fault_hint": null
+  },
+  {
+    "upcoming_lot_id": "UPCOMING_07",
+    "predicted_yield": 94.8883,
+    "risk_tier": "low",
+    "top_3_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.982242
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 1.28381
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 1.168503
+      }
+    ],
+    "planned_params": {
+      "temperature": 185.7604,
+      "pressure": 3.2732,
+      "rf_power": 976.6562,
+      "gas_flow": 61.6421,
+      "etch_time": 44.1026
+    },
+    "fault_hint": null
+  },
+  {
+    "upcoming_lot_id": "UPCOMING_08",
+    "predicted_yield": 95.0086,
+    "risk_tier": "low",
+    "top_3_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.983511
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 1.253418
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 1.170204
+      }
+    ],
+    "planned_params": {
+      "temperature": 180.2621,
+      "pressure": 7.3919,
+      "rf_power": 1052.2344,
+      "gas_flow": 75.132,
+      "etch_time": 85.7327
+    },
+    "fault_hint": null
+  },
+  {
+    "upcoming_lot_id": "UPCOMING_09",
+    "predicted_yield": 94.6596,
+    "risk_tier": "low",
+    "top_3_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.970673
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 1.219369
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 1.042489
+      }
+    ],
+    "planned_params": {
+      "temperature": 201.6835,
+      "pressure": 2.2506,
+      "rf_power": 1024.8768,
+      "gas_flow": 146.0214,
+      "etch_time": 78.0395
+    },
+    "fault_hint": null
+  },
+  {
+    "upcoming_lot_id": "UPCOMING_10",
+    "predicted_yield": 94.8534,
+    "risk_tier": "low",
+    "top_3_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.986343
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 1.20011
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 1.18188
+      }
+    ],
+    "planned_params": {
+      "temperature": 213.3968,
+      "pressure": 3.5158,
+      "rf_power": 1468.2735,
+      "gas_flow": 119.9357,
+      "etch_time": 45.8455
+    },
+    "fault_hint": null
+  },
+  {
+    "upcoming_lot_id": "UPCOMING_11",
+    "predicted_yield": 94.9997,
+    "risk_tier": "low",
+    "top_3_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.980482
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 1.233654
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 1.181563
+      }
+    ],
+    "planned_params": {
+      "temperature": 201.9751,
+      "pressure": 4.264,
+      "rf_power": 703.7283,
+      "gas_flow": 187.3194,
+      "etch_time": 86.3506
+    },
+    "fault_hint": null
+  },
+  {
+    "upcoming_lot_id": "UPCOMING_12",
+    "predicted_yield": 94.8534,
+    "risk_tier": "low",
+    "top_3_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.986343
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 1.206169
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 1.176135
+      }
+    ],
+    "planned_params": {
+      "temperature": 213.4997,
+      "pressure": 4.5967,
+      "rf_power": 1216.113,
+      "gas_flow": 177.7016,
+      "etch_time": 34.7428
+    },
+    "fault_hint": null
+  },
+  {
+    "upcoming_lot_id": "UPCOMING_13",
+    "predicted_yield": 94.7735,
+    "risk_tier": "low",
+    "top_3_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.981034
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 1.228468
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 1.176135
+      }
+    ],
+    "planned_params": {
+      "temperature": 196.3983,
+      "pressure": 5.8494,
+      "rf_power": 1476.4513,
+      "gas_flow": 155.7933,
+      "etch_time": 68.1972
+    },
+    "fault_hint": null
+  },
+  {
+    "upcoming_lot_id": "UPCOMING_14",
+    "predicted_yield": 94.3153,
+    "risk_tier": "low",
+    "top_3_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.95034
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 1.228138
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 1.156592
+      }
+    ],
+    "planned_params": {
+      "temperature": 188.2155,
+      "pressure": 3.7584,
+      "rf_power": 660.0101,
+      "gas_flow": 95.59,
+      "etch_time": 73.1104
+    },
+    "fault_hint": null
+  },
+  {
+    "upcoming_lot_id": "UPCOMING_15",
+    "predicted_yield": 94.6515,
+    "risk_tier": "low",
+    "top_3_features": [
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.976395
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 1.065067
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.951815
+      }
+    ],
+    "planned_params": {
+      "temperature": 218.3192,
+      "pressure": 2.0947,
+      "rf_power": 812.5945,
+      "gas_flow": 57.3369,
+      "etch_time": 82.4863
+    },
+    "fault_hint": null
+  },
+  {
+    "upcoming_lot_id": "UPCOMING_16",
+    "predicted_yield": 74.0128,
+    "risk_tier": "high",
+    "top_3_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.915303
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.030167
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.544983
+      }
+    ],
+    "planned_params": {
+      "temperature": 207.7503,
+      "pressure": 10.3266,
+      "rf_power": 1418.3481,
+      "gas_flow": 72.9678,
+      "etch_time": 58.2017
+    },
+    "fault_hint": "pressure_drift"
+  },
+  {
+    "upcoming_lot_id": "UPCOMING_17",
+    "predicted_yield": 73.4893,
+    "risk_tier": "high",
+    "top_3_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.486671
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.010137
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.547856
+      }
+    ],
+    "planned_params": {
+      "temperature": 240.4627,
+      "pressure": 5.0975,
+      "rf_power": 1220.4176,
+      "gas_flow": 173.3788,
+      "etch_time": 44.116
+    },
+    "fault_hint": "temp_excursion"
+  },
+  {
+    "upcoming_lot_id": "UPCOMING_18",
+    "predicted_yield": 74.3504,
+    "risk_tier": "high",
+    "top_3_features": [
+      {
+        "feature_name": "pressure",
+        "shap_value": -17.820013
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 1.03127
+      },
+      {
+        "feature_name": "temperature",
+        "shap_value": 0.73735
+      }
+    ],
+    "planned_params": {
+      "temperature": 184.2216,
+      "pressure": 10.1139,
+      "rf_power": 743.6563,
+      "gas_flow": 174.042,
+      "etch_time": 57.9318
+    },
+    "fault_hint": "pressure_drift"
+  },
+  {
+    "upcoming_lot_id": "UPCOMING_19",
+    "predicted_yield": 73.523,
+    "risk_tier": "high",
+    "top_3_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -18.246009
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 0.988986
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": 0.588494
+      }
+    ],
+    "planned_params": {
+      "temperature": 241.9103,
+      "pressure": 4.1288,
+      "rf_power": 603.4663,
+      "gas_flow": 94.8319,
+      "etch_time": 39.7925
+    },
+    "fault_hint": "temp_excursion"
+  },
+  {
+    "upcoming_lot_id": "UPCOMING_20",
+    "predicted_yield": 73.3415,
+    "risk_tier": "high",
+    "top_3_features": [
+      {
+        "feature_name": "temperature",
+        "shap_value": -9.136956
+      },
+      {
+        "feature_name": "pressure",
+        "shap_value": -8.55498
+      },
+      {
+        "feature_name": "sensor_std",
+        "shap_value": 0.688574
+      }
+    ],
+    "planned_params": {
+      "temperature": 237.3282,
+      "pressure": 10.0444,
+      "rf_power": 854.9112,
+      "gas_flow": 161.6971,
+      "etch_time": 68.8895
+    },
+    "fault_hint": "pressure_drift+temp_excursion"
+  }
+]

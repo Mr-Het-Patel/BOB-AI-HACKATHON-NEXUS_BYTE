@@ -1,0 +1,5002 @@
+[
+  {
+    "lot_id": "LOT_0001",
+    "temperature": 194.9816,
+    "pressure": 6.189,
+    "rf_power": 685.1329,
+    "gas_flow": 127.8623,
+    "etch_time": 45.7023,
+    "yield_pct": 94.1469,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0002",
+    "temperature": 218.0286,
+    "pressure": 5.2166,
+    "rf_power": 1041.9009,
+    "gas_flow": 121.8773,
+    "etch_time": 44.8187,
+    "yield_pct": 97.1993,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0003",
+    "temperature": 209.2798,
+    "pressure": 3.8572,
+    "rf_power": 1372.9458,
+    "gas_flow": 53.8463,
+    "etch_time": 84.3753,
+    "yield_pct": 94.2189,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0004",
+    "temperature": 203.9463,
+    "pressure": 6.8828,
+    "rf_power": 1232.2249,
+    "gas_flow": 101.1872,
+    "etch_time": 44.9728,
+    "yield_pct": 71.3192,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0005",
+    "temperature": 186.2407,
+    "pressure": 6.1084,
+    "rf_power": 1306.5611,
+    "gas_flow": 107.0293,
+    "etch_time": 46.317,
+    "yield_pct": 95.8437,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0006",
+    "temperature": 186.2398,
+    "pressure": 2.9757,
+    "rf_power": 1158.7834,
+    "gas_flow": 109.8234,
+    "etch_time": 75.5639,
+    "yield_pct": 97.4134,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0007",
+    "temperature": 182.3233,
+    "pressure": 7.4656,
+    "rf_power": 1192.2766,
+    "gas_flow": 137.0259,
+    "etch_time": 56.9844,
+    "yield_pct": 96.1617,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0008",
+    "temperature": 214.647,
+    "pressure": 6.9352,
+    "rf_power": 1349.1957,
+    "gas_flow": 130.0404,
+    "etch_time": 76.6026,
+    "yield_pct": 96.5749,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0009",
+    "temperature": 204.0446,
+    "pressure": 7.6988,
+    "rf_power": 749.668,
+    "gas_flow": 141.1858,
+    "etch_time": 33.922,
+    "yield_pct": 93.1714,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0010",
+    "temperature": 208.3229,
+    "pressure": 6.3543,
+    "rf_power": 989.425,
+    "gas_flow": 164.7325,
+    "etch_time": 59.2543,
+    "yield_pct": 93.8772,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0011",
+    "temperature": 180.8234,
+    "pressure": 5.6805,
+    "rf_power": 721.2094,
+    "gas_flow": 171.9479,
+    "etch_time": 32.0168,
+    "yield_pct": 93.6579,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0012",
+    "temperature": 218.7964,
+    "pressure": 4.5095,
+    "rf_power": 1487.668,
+    "gas_flow": 157.7185,
+    "etch_time": 33.7592,
+    "yield_pct": 95.1545,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0013",
+    "temperature": 213.2977,
+    "pressure": 10.456,
+    "rf_power": 1444.0593,
+    "gas_flow": 193.3286,
+    "etch_time": 84.3862,
+    "yield_pct": 76.8247,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0014",
+    "temperature": 188.4936,
+    "pressure": 7.1964,
+    "rf_power": 539.4268,
+    "gas_flow": 52.7349,
+    "etch_time": 38.3547,
+    "yield_pct": 74.9945,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0015",
+    "temperature": 187.273,
+    "pressure": 2.2713,
+    "rf_power": 1205.5752,
+    "gas_flow": 79.3667,
+    "etch_time": 61.9452,
+    "yield_pct": 92.9086,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0016",
+    "temperature": 244.5745,
+    "pressure": 2.1582,
+    "rf_power": 1425.2483,
+    "gas_flow": 51.1344,
+    "etch_time": 54.6657,
+    "yield_pct": 65.4219,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0017",
+    "temperature": 235.0886,
+    "pressure": 4.2588,
+    "rf_power": 680.5753,
+    "gas_flow": 147.1212,
+    "etch_time": 50.8406,
+    "yield_pct": 68.4292,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0018",
+    "temperature": 200.9903,
+    "pressure": 6.8633,
+    "rf_power": 1067.9452,
+    "gas_flow": 184.7046,
+    "etch_time": 83.99,
+    "yield_pct": 94.2428,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0019",
+    "temperature": 197.2778,
+    "pressure": 7.9237,
+    "rf_power": 1415.4883,
+    "gas_flow": 86.5223,
+    "etch_time": 31.3094,
+    "yield_pct": 92.4605,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0020",
+    "temperature": 191.6492,
+    "pressure": 2.9025,
+    "rf_power": 533.946,
+    "gas_flow": 189.0552,
+    "etch_time": 69.8274,
+    "yield_pct": 93.1686,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0021",
+    "temperature": 204.4741,
+    "pressure": 5.5648,
+    "rf_power": 1197.4203,
+    "gas_flow": 59.0401,
+    "etch_time": 87.8037,
+    "yield_pct": 96.7775,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0022",
+    "temperature": 185.5798,
+    "pressure": 4.2853,
+    "rf_power": 797.349,
+    "gas_flow": 190.1654,
+    "etch_time": 63.6101,
+    "yield_pct": 94.3084,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0023",
+    "temperature": 191.6858,
+    "pressure": 9.7005,
+    "rf_power": 1424.3962,
+    "gas_flow": 102.7434,
+    "etch_time": 86.2093,
+    "yield_pct": 74.7751,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0024",
+    "temperature": 194.6545,
+    "pressure": 7.0527,
+    "rf_power": 1471.0582,
+    "gas_flow": 65.2131,
+    "etch_time": 33.1355,
+    "yield_pct": 72.4694,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0025",
+    "temperature": 198.2428,
+    "pressure": 7.03,
+    "rf_power": 1444.2665,
+    "gas_flow": 122.8808,
+    "etch_time": 55.1276,
+    "yield_pct": 97.4366,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0026",
+    "temperature": 211.407,
+    "pressure": 4.8122,
+    "rf_power": 974.2142,
+    "gas_flow": 88.5165,
+    "etch_time": 45.6095,
+    "yield_pct": 95.7801,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0027",
+    "temperature": 187.987,
+    "pressure": 4.4889,
+    "rf_power": 1362.0427,
+    "gas_flow": 92.7309,
+    "etch_time": 73.8493,
+    "yield_pct": 92.3344,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0028",
+    "temperature": 200.5694,
+    "pressure": 3.6404,
+    "rf_power": 1344.5494,
+    "gas_flow": 96.0935,
+    "etch_time": 88.8778,
+    "yield_pct": 97.9075,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0029",
+    "temperature": 203.6966,
+    "pressure": 2.3383,
+    "rf_power": 819.1005,
+    "gas_flow": 170.4539,
+    "etch_time": 45.3918,
+    "yield_pct": 95.7425,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0030",
+    "temperature": 181.858,
+    "pressure": 7.1883,
+    "rf_power": 1328.9155,
+    "gas_flow": 130.8742,
+    "etch_time": 69.2505,
+    "yield_pct": 94.9117,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0031",
+    "temperature": 204.3018,
+    "pressure": 6.8774,
+    "rf_power": 537.0076,
+    "gas_flow": 96.6962,
+    "etch_time": 41.8859,
+    "yield_pct": 92.2671,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0032",
+    "temperature": 186.821,
+    "pressure": 7.9983,
+    "rf_power": 1096.2699,
+    "gas_flow": 141.5501,
+    "etch_time": 63.9198,
+    "yield_pct": 92.211,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0033",
+    "temperature": 182.6021,
+    "pressure": 7.9798,
+    "rf_power": 730.0088,
+    "gas_flow": 157.4226,
+    "etch_time": 57.8359,
+    "yield_pct": 93.1759,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0034",
+    "temperature": 217.9554,
+    "pressure": 5.3326,
+    "rf_power": 620.5669,
+    "gas_flow": 90.8936,
+    "etch_time": 88.3203,
+    "yield_pct": 92.1648,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0035",
+    "temperature": 218.6253,
+    "pressure": 6.6139,
+    "rf_power": 576.9532,
+    "gas_flow": 112.0324,
+    "etch_time": 66.5116,
+    "yield_pct": 96.6965,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0036",
+    "temperature": 243.2847,
+    "pressure": 7.6686,
+    "rf_power": 1196.2888,
+    "gas_flow": 68.2829,
+    "etch_time": 50.9704,
+    "yield_pct": 69.0636,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0037",
+    "temperature": 237.9462,
+    "pressure": 7.0979,
+    "rf_power": 839.875,
+    "gas_flow": 77.1724,
+    "etch_time": 36.8457,
+    "yield_pct": 75.2219,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0038",
+    "temperature": 183.9069,
+    "pressure": 3.4841,
+    "rf_power": 1224.7668,
+    "gas_flow": 152.1677,
+    "etch_time": 39.0748,
+    "yield_pct": 96.2192,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0039",
+    "temperature": 207.3693,
+    "pressure": 4.7033,
+    "rf_power": 565.3563,
+    "gas_flow": 77.2158,
+    "etch_time": 43.519,
+    "yield_pct": 93.1396,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0040",
+    "temperature": 197.6061,
+    "pressure": 2.775,
+    "rf_power": 815.2903,
+    "gas_flow": 128.7745,
+    "etch_time": 45.058,
+    "yield_pct": 95.4887,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0041",
+    "temperature": 184.8815,
+    "pressure": 7.7243,
+    "rf_power": 1039.4913,
+    "gas_flow": 156.3569,
+    "etch_time": 81.037,
+    "yield_pct": 75.8977,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0042",
+    "temperature": 199.8071,
+    "pressure": 5.637,
+    "rf_power": 1290.7232,
+    "gas_flow": 66.0315,
+    "etch_time": 63.6734,
+    "yield_pct": 96.4834,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0043",
+    "temperature": 181.3755,
+    "pressure": 3.3719,
+    "rf_power": 818.7525,
+    "gas_flow": 135.0968,
+    "etch_time": 61.4035,
+    "yield_pct": 92.3176,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0044",
+    "temperature": 216.3728,
+    "pressure": 6.0302,
+    "rf_power": 1125.8914,
+    "gas_flow": 88.4844,
+    "etch_time": 36.8861,
+    "yield_pct": 97.6668,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0045",
+    "temperature": 242.3787,
+    "pressure": 5.7088,
+    "rf_power": 1385.9777,
+    "gas_flow": 194.439,
+    "etch_time": 81.6084,
+    "yield_pct": 67.0813,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0046",
+    "temperature": 206.5009,
+    "pressure": 4.149,
+    "rf_power": 1115.8632,
+    "gas_flow": 122.5318,
+    "etch_time": 73.3689,
+    "yield_pct": 97.5958,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0047",
+    "temperature": 192.4684,
+    "pressure": 2.6813,
+    "rf_power": 732.9595,
+    "gas_flow": 170.8989,
+    "etch_time": 34.0601,
+    "yield_pct": 96.8532,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0048",
+    "temperature": 200.8027,
+    "pressure": 9.5625,
+    "rf_power": 524.4008,
+    "gas_flow": 132.534,
+    "etch_time": 72.4701,
+    "yield_pct": 69.9131,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0049",
+    "temperature": 201.8684,
+    "pressure": 5.1218,
+    "rf_power": 1370.0989,
+    "gas_flow": 56.5119,
+    "etch_time": 62.6123,
+    "yield_pct": 93.7298,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0050",
+    "temperature": 187.3942,
+    "pressure": 9.9483,
+    "rf_power": 521.2694,
+    "gas_flow": 144.9727,
+    "etch_time": 34.9035,
+    "yield_pct": 64.8013,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0051",
+    "temperature": 218.7834,
+    "pressure": 5.121,
+    "rf_power": 1374.7017,
+    "gas_flow": 192.7105,
+    "etch_time": 57.498,
+    "yield_pct": 96.1382,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0052",
+    "temperature": 242.4048,
+    "pressure": 7.1131,
+    "rf_power": 1028.9371,
+    "gas_flow": 140.2418,
+    "etch_time": 59.0818,
+    "yield_pct": 70.2188,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0053",
+    "temperature": 236.4285,
+    "pressure": 5.3114,
+    "rf_power": 1439.0677,
+    "gas_flow": 172.8783,
+    "etch_time": 39.9465,
+    "yield_pct": 72.0423,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0054",
+    "temperature": 215.7931,
+    "pressure": 5.3656,
+    "rf_power": 1298.7832,
+    "gas_flow": 182.631,
+    "etch_time": 86.7419,
+    "yield_pct": 93.0094,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0055",
+    "temperature": 203.916,
+    "pressure": 7.2599,
+    "rf_power": 1497.9341,
+    "gas_flow": 84.212,
+    "etch_time": 80.9985,
+    "yield_pct": 93.6353,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0056",
+    "temperature": 216.875,
+    "pressure": 4.4209,
+    "rf_power": 850.7118,
+    "gas_flow": 81.8067,
+    "etch_time": 70.1413,
+    "yield_pct": 97.6498,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0057",
+    "temperature": 183.5397,
+    "pressure": 2.8041,
+    "rf_power": 1267.1883,
+    "gas_flow": 141.6471,
+    "etch_time": 57.7377,
+    "yield_pct": 96.213,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0058",
+    "temperature": 187.8393,
+    "pressure": 10.1266,
+    "rf_power": 901.9309,
+    "gas_flow": 111.6543,
+    "etch_time": 54.7059,
+    "yield_pct": 67.9118,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0059",
+    "temperature": 181.8091,
+    "pressure": 6.5308,
+    "rf_power": 979.8756,
+    "gas_flow": 175.9792,
+    "etch_time": 69.0584,
+    "yield_pct": 95.2315,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0060",
+    "temperature": 193.0132,
+    "pressure": 5.7219,
+    "rf_power": 1127.5055,
+    "gas_flow": 185.0035,
+    "etch_time": 62.7259,
+    "yield_pct": 97.4381,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0061",
+    "temperature": 195.5471,
+    "pressure": 6.2245,
+    "rf_power": 1373.6771,
+    "gas_flow": 103.0132,
+    "etch_time": 33.7364,
+    "yield_pct": 96.758,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0062",
+    "temperature": 190.854,
+    "pressure": 3.2778,
+    "rf_power": 1484.0835,
+    "gas_flow": 85.5306,
+    "etch_time": 60.7502,
+    "yield_pct": 95.7146,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0063",
+    "temperature": 213.1495,
+    "pressure": 2.8182,
+    "rf_power": 1268.2734,
+    "gas_flow": 167.0788,
+    "etch_time": 78.3842,
+    "yield_pct": 94.1228,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0064",
+    "temperature": 194.2701,
+    "pressure": 9.5191,
+    "rf_power": 917.7668,
+    "gas_flow": 91.2209,
+    "etch_time": 57.5544,
+    "yield_pct": 74.1881,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0065",
+    "temperature": 191.2374,
+    "pressure": 4.1035,
+    "rf_power": 921.357,
+    "gas_flow": 173.3921,
+    "etch_time": 33.1174,
+    "yield_pct": 94.1903,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0066",
+    "temperature": 201.7078,
+    "pressure": 5.5395,
+    "rf_power": 1237.5823,
+    "gas_flow": 113.5607,
+    "etch_time": 77.1767,
+    "yield_pct": 94.1857,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0067",
+    "temperature": 185.637,
+    "pressure": 4.3535,
+    "rf_power": 738.7771,
+    "gas_flow": 150.1325,
+    "etch_time": 42.0818,
+    "yield_pct": 96.7217,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0068",
+    "temperature": 212.0879,
+    "pressure": 4.6248,
+    "rf_power": 610.4741,
+    "gas_flow": 64.3303,
+    "etch_time": 45.5173,
+    "yield_pct": 93.3462,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0069",
+    "temperature": 182.982,
+    "pressure": 7.425,
+    "rf_power": 854.6222,
+    "gas_flow": 143.5789,
+    "etch_time": 39.8824,
+    "yield_pct": 92.5222,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0070",
+    "temperature": 219.4755,
+    "pressure": 4.0895,
+    "rf_power": 787.239,
+    "gas_flow": 117.7652,
+    "etch_time": 49.8129,
+    "yield_pct": 97.3476,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0071",
+    "temperature": 210.8898,
+    "pressure": 5.0839,
+    "rf_power": 796.3081,
+    "gas_flow": 137.9913,
+    "etch_time": 75.4051,
+    "yield_pct": 96.3638,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0072",
+    "temperature": 187.9486,
+    "pressure": 6.7019,
+    "rf_power": 733.6078,
+    "gas_flow": 75.2021,
+    "etch_time": 61.1632,
+    "yield_pct": 68.5026,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0073",
+    "temperature": 180.2209,
+    "pressure": 4.3793,
+    "rf_power": 542.0932,
+    "gas_flow": 160.5311,
+    "etch_time": 42.2929,
+    "yield_pct": 92.72,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0074",
+    "temperature": 212.6185,
+    "pressure": 5.7325,
+    "rf_power": 517.8739,
+    "gas_flow": 179.4196,
+    "etch_time": 82.6698,
+    "yield_pct": 94.8837,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0075",
+    "temperature": 208.2743,
+    "pressure": 7.1742,
+    "rf_power": 1487.7224,
+    "gas_flow": 82.511,
+    "etch_time": 82.7749,
+    "yield_pct": 97.1572,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0076",
+    "temperature": 209.1603,
+    "pressure": 7.6971,
+    "rf_power": 927.7731,
+    "gas_flow": 64.3572,
+    "etch_time": 82.2347,
+    "yield_pct": 94.5865,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0077",
+    "temperature": 210.8508,
+    "pressure": 2.8824,
+    "rf_power": 884.3266,
+    "gas_flow": 53.5458,
+    "etch_time": 44.3278,
+    "yield_pct": 97.759,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0078",
+    "temperature": 182.9618,
+    "pressure": 7.5595,
+    "rf_power": 1179.6473,
+    "gas_flow": 146.2957,
+    "etch_time": 57.0744,
+    "yield_pct": 95.1391,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0079",
+    "temperature": 194.3386,
+    "pressure": 4.9527,
+    "rf_power": 718.2539,
+    "gas_flow": 141.0641,
+    "etch_time": 89.0994,
+    "yield_pct": 97.0944,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0080",
+    "temperature": 241.5854,
+    "pressure": 3.5495,
+    "rf_power": 1449.9612,
+    "gas_flow": 132.0046,
+    "etch_time": 76.3207,
+    "yield_pct": 78.6703,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0081",
+    "temperature": 214.5241,
+    "pressure": 4.7548,
+    "rf_power": 1286.345,
+    "gas_flow": 84.7921,
+    "etch_time": 31.63,
+    "yield_pct": 95.1166,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0082",
+    "temperature": 204.9319,
+    "pressure": 7.8802,
+    "rf_power": 589.411,
+    "gas_flow": 108.6359,
+    "etch_time": 33.9123,
+    "yield_pct": 79.0665,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0083",
+    "temperature": 193.2359,
+    "pressure": 4.9557,
+    "rf_power": 917.5808,
+    "gas_flow": 139.1715,
+    "etch_time": 57.8359,
+    "yield_pct": 95.1972,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0084",
+    "temperature": 182.5423,
+    "pressure": 3.9725,
+    "rf_power": 1379.1183,
+    "gas_flow": 124.515,
+    "etch_time": 84.5532,
+    "yield_pct": 78.2576,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0085",
+    "temperature": 192.4393,
+    "pressure": 5.8004,
+    "rf_power": 1444.732,
+    "gas_flow": 198.1678,
+    "etch_time": 62.3221,
+    "yield_pct": 96.8099,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0086",
+    "temperature": 193.0073,
+    "pressure": 3.4409,
+    "rf_power": 967.4015,
+    "gas_flow": 70.466,
+    "etch_time": 59.8688,
+    "yield_pct": 93.292,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0087",
+    "temperature": 209.1842,
+    "pressure": 2.4552,
+    "rf_power": 1113.4114,
+    "gas_flow": 154.2717,
+    "etch_time": 36.3284,
+    "yield_pct": 94.6422,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0088",
+    "temperature": 205.5023,
+    "pressure": 2.7733,
+    "rf_power": 667.0339,
+    "gas_flow": 110.6478,
+    "etch_time": 69.4068,
+    "yield_pct": 95.4182,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0089",
+    "temperature": 215.4885,
+    "pressure": 2.7683,
+    "rf_power": 1491.1686,
+    "gas_flow": 114.2299,
+    "etch_time": 79.3262,
+    "yield_pct": 93.7919,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0090",
+    "temperature": 198.8886,
+    "pressure": 2.9114,
+    "rf_power": 731.6717,
+    "gas_flow": 157.6397,
+    "etch_time": 52.8252,
+    "yield_pct": 96.0442,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0091",
+    "temperature": 184.7838,
+    "pressure": 2.833,
+    "rf_power": 1442.7318,
+    "gas_flow": 153.8654,
+    "etch_time": 76.5367,
+    "yield_pct": 95.3397,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0092",
+    "temperature": 208.5298,
+    "pressure": 5.8452,
+    "rf_power": 1149.6466,
+    "gas_flow": 198.6884,
+    "etch_time": 87.8686,
+    "yield_pct": 94.227,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0093",
+    "temperature": 210.4314,
+    "pressure": 3.0913,
+    "rf_power": 1107.7368,
+    "gas_flow": 69.2591,
+    "etch_time": 42.226,
+    "yield_pct": 93.9551,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0094",
+    "temperature": 202.4511,
+    "pressure": 4.074,
+    "rf_power": 1012.6885,
+    "gas_flow": 65.6164,
+    "etch_time": 61.3998,
+    "yield_pct": 95.4504,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0095",
+    "temperature": 210.8387,
+    "pressure": 7.3807,
+    "rf_power": 730.6698,
+    "gas_flow": 158.6508,
+    "etch_time": 47.2283,
+    "yield_pct": 97.6414,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0096",
+    "temperature": 199.7518,
+    "pressure": 4.8438,
+    "rf_power": 676.528,
+    "gas_flow": 136.758,
+    "etch_time": 77.5713,
+    "yield_pct": 93.7965,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0097",
+    "temperature": 200.9093,
+    "pressure": 6.0053,
+    "rf_power": 720.4862,
+    "gas_flow": 91.1241,
+    "etch_time": 64.6556,
+    "yield_pct": 97.1743,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0098",
+    "temperature": 197.1016,
+    "pressure": 3.0339,
+    "rf_power": 686.4383,
+    "gas_flow": 61.9129,
+    "etch_time": 68.0749,
+    "yield_pct": 92.5266,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0099",
+    "temperature": 181.0168,
+    "pressure": 3.1537,
+    "rf_power": 1279.5845,
+    "gas_flow": 62.8487,
+    "etch_time": 77.8748,
+    "yield_pct": 66.8573,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0100",
+    "temperature": 184.3157,
+    "pressure": 2.2452,
+    "rf_power": 850.1253,
+    "gas_flow": 184.1286,
+    "etch_time": 53.7582,
+    "yield_pct": 95.0459,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0101",
+    "temperature": 181.2572,
+    "pressure": 3.0136,
+    "rf_power": 557.8427,
+    "gas_flow": 78.7801,
+    "etch_time": 84.9054,
+    "yield_pct": 93.4064,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0102",
+    "temperature": 205.4564,
+    "pressure": 10.1925,
+    "rf_power": 1469.1026,
+    "gas_flow": 98.5057,
+    "etch_time": 61.9817,
+    "yield_pct": 70.1189,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0103",
+    "temperature": 192.5742,
+    "pressure": 3.0621,
+    "rf_power": 1383.7859,
+    "gas_flow": 83.9985,
+    "etch_time": 39.4773,
+    "yield_pct": 94.4294,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0104",
+    "temperature": 200.3428,
+    "pressure": 2.5322,
+    "rf_power": 1427.7523,
+    "gas_flow": 103.2494,
+    "etch_time": 71.7539,
+    "yield_pct": 92.348,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0105",
+    "temperature": 216.3027,
+    "pressure": 2.7238,
+    "rf_power": 1494.9078,
+    "gas_flow": 60.4136,
+    "etch_time": 77.5957,
+    "yield_pct": 97.1626,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0106",
+    "temperature": 189.9717,
+    "pressure": 4.7647,
+    "rf_power": 673.8952,
+    "gas_flow": 127.859,
+    "etch_time": 49.0057,
+    "yield_pct": 94.6718,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0107",
+    "temperature": 196.4153,
+    "pressure": 3.238,
+    "rf_power": 896.242,
+    "gas_flow": 60.1419,
+    "etch_time": 81.4308,
+    "yield_pct": 95.8708,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0108",
+    "temperature": 210.222,
+    "pressure": 4.1856,
+    "rf_power": 1258.2385,
+    "gas_flow": 170.0535,
+    "etch_time": 84.3686,
+    "yield_pct": 69.7485,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0109",
+    "temperature": 189.1519,
+    "pressure": 5.0205,
+    "rf_power": 1196.0206,
+    "gas_flow": 85.0568,
+    "etch_time": 46.6143,
+    "yield_pct": 94.4591,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0110",
+    "temperature": 183.0792,
+    "pressure": 6.1424,
+    "rf_power": 653.8959,
+    "gas_flow": 131.0018,
+    "etch_time": 89.0113,
+    "yield_pct": 93.2641,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0111",
+    "temperature": 191.5901,
+    "pressure": 2.2359,
+    "rf_power": 1315.8331,
+    "gas_flow": 182.0119,
+    "etch_time": 38.4427,
+    "yield_pct": 75.177,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0112",
+    "temperature": 186.4489,
+    "pressure": 6.7965,
+    "rf_power": 724.4406,
+    "gas_flow": 147.6316,
+    "etch_time": 42.1209,
+    "yield_pct": 68.8703,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0113",
+    "temperature": 239.0754,
+    "pressure": 5.7674,
+    "rf_power": 723.8176,
+    "gas_flow": 129.9437,
+    "etch_time": 41.0535,
+    "yield_pct": 78.1728,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0114",
+    "temperature": 212.3248,
+    "pressure": 2.4906,
+    "rf_power": 1036.9744,
+    "gas_flow": 98.6501,
+    "etch_time": 83.6394,
+    "yield_pct": 97.9968,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0115",
+    "temperature": 205.3362,
+    "pressure": 10.3044,
+    "rf_power": 1092.9399,
+    "gas_flow": 99.9503,
+    "etch_time": 69.2576,
+    "yield_pct": 69.6031,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0116",
+    "temperature": 214.8584,
+    "pressure": 7.5252,
+    "rf_power": 1080.0862,
+    "gas_flow": 150.423,
+    "etch_time": 39.1263,
+    "yield_pct": 96.7351,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0117",
+    "temperature": 212.1469,
+    "pressure": 2.3665,
+    "rf_power": 591.4868,
+    "gas_flow": 199.1209,
+    "etch_time": 56.4194,
+    "yield_pct": 78.1685,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0118",
+    "temperature": 187.4628,
+    "pressure": 3.6613,
+    "rf_power": 1377.4609,
+    "gas_flow": 149.2759,
+    "etch_time": 66.9179,
+    "yield_pct": 94.4799,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0119",
+    "temperature": 215.7024,
+    "pressure": 6.8372,
+    "rf_power": 765.6,
+    "gas_flow": 133.6675,
+    "etch_time": 35.0078,
+    "yield_pct": 96.589,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0120",
+    "temperature": 201.5737,
+    "pressure": 6.4896,
+    "rf_power": 629.5149,
+    "gas_flow": 159.5976,
+    "etch_time": 82.945,
+    "yield_pct": 72.4922,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0121",
+    "temperature": 212.2976,
+    "pressure": 3.1071,
+    "rf_power": 1388.7481,
+    "gas_flow": 119.7808,
+    "etch_time": 78.2162,
+    "yield_pct": 93.3928,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0122",
+    "temperature": 215.8437,
+    "pressure": 3.2561,
+    "rf_power": 1455.6515,
+    "gas_flow": 59.0214,
+    "etch_time": 60.3124,
+    "yield_pct": 93.0032,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0123",
+    "temperature": 192.7201,
+    "pressure": 4.2228,
+    "rf_power": 1362.1276,
+    "gas_flow": 134.3445,
+    "etch_time": 88.0276,
+    "yield_pct": 97.31,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0124",
+    "temperature": 184.4021,
+    "pressure": 4.9071,
+    "rf_power": 1309.5161,
+    "gas_flow": 193.6438,
+    "etch_time": 55.0657,
+    "yield_pct": 96.8087,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0125",
+    "temperature": 189.1174,
+    "pressure": 5.7095,
+    "rf_power": 1155.242,
+    "gas_flow": 76.2954,
+    "etch_time": 89.0466,
+    "yield_pct": 95.1463,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0126",
+    "temperature": 235.6601,
+    "pressure": 4.2135,
+    "rf_power": 1050.8574,
+    "gas_flow": 153.5007,
+    "etch_time": 70.0752,
+    "yield_pct": 72.4893,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0127",
+    "temperature": 212.7206,
+    "pressure": 4.7752,
+    "rf_power": 586.9868,
+    "gas_flow": 80.1401,
+    "etch_time": 68.0803,
+    "yield_pct": 94.2376,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0128",
+    "temperature": 214.4292,
+    "pressure": 6.4848,
+    "rf_power": 908.4532,
+    "gas_flow": 130.3742,
+    "etch_time": 39.9573,
+    "yield_pct": 96.9915,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0129",
+    "temperature": 180.2781,
+    "pressure": 2.2201,
+    "rf_power": 872.6885,
+    "gas_flow": 64.5015,
+    "etch_time": 82.9157,
+    "yield_pct": 95.6681,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0130",
+    "temperature": 200.4299,
+    "pressure": 3.5146,
+    "rf_power": 759.7538,
+    "gas_flow": 117.5556,
+    "etch_time": 55.6494,
+    "yield_pct": 94.2123,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0131",
+    "temperature": 196.6964,
+    "pressure": 6.2801,
+    "rf_power": 1223.4201,
+    "gas_flow": 163.4245,
+    "etch_time": 39.734,
+    "yield_pct": 97.624,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0132",
+    "temperature": 188.8843,
+    "pressure": 7.3712,
+    "rf_power": 995.8757,
+    "gas_flow": 102.1357,
+    "etch_time": 30.7565,
+    "yield_pct": 96.4852,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0133",
+    "temperature": 184.7946,
+    "pressure": 5.0701,
+    "rf_power": 581.0462,
+    "gas_flow": 149.7368,
+    "etch_time": 63.5853,
+    "yield_pct": 93.2228,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0134",
+    "temperature": 193.5046,
+    "pressure": 5.1927,
+    "rf_power": 720.1832,
+    "gas_flow": 169.3175,
+    "etch_time": 61.644,
+    "yield_pct": 95.8706,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0135",
+    "temperature": 217.7164,
+    "pressure": 2.643,
+    "rf_power": 1183.2588,
+    "gas_flow": 189.0767,
+    "etch_time": 73.1612,
+    "yield_pct": 95.4432,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0136",
+    "temperature": 237.7876,
+    "pressure": 4.6845,
+    "rf_power": 576.1309,
+    "gas_flow": 85.1963,
+    "etch_time": 83.4155,
+    "yield_pct": 68.6608,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0137",
+    "temperature": 200.7516,
+    "pressure": 10.0735,
+    "rf_power": 1351.2069,
+    "gas_flow": 109.8974,
+    "etch_time": 34.7644,
+    "yield_pct": 77.6641,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0138",
+    "temperature": 208.1208,
+    "pressure": 3.4548,
+    "rf_power": 995.1465,
+    "gas_flow": 72.8624,
+    "etch_time": 73.8898,
+    "yield_pct": 97.7372,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0139",
+    "temperature": 194.5452,
+    "pressure": 3.6155,
+    "rf_power": 980.5866,
+    "gas_flow": 198.8725,
+    "etch_time": 41.2447,
+    "yield_pct": 95.3118,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0140",
+    "temperature": 218.8713,
+    "pressure": 4.2637,
+    "rf_power": 1092.4078,
+    "gas_flow": 189.0501,
+    "etch_time": 81.4906,
+    "yield_pct": 93.1994,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0141",
+    "temperature": 218.4979,
+    "pressure": 2.1204,
+    "rf_power": 1324.681,
+    "gas_flow": 130.9936,
+    "etch_time": 79.1438,
+    "yield_pct": 70.2035,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0142",
+    "temperature": 190.0713,
+    "pressure": 3.9325,
+    "rf_power": 847.8092,
+    "gas_flow": 176.305,
+    "etch_time": 62.4476,
+    "yield_pct": 92.2828,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0143",
+    "temperature": 199.8899,
+    "pressure": 3.2687,
+    "rf_power": 1178.0162,
+    "gas_flow": 128.1437,
+    "etch_time": 72.6146,
+    "yield_pct": 63.8742,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0144",
+    "temperature": 192.0351,
+    "pressure": 3.965,
+    "rf_power": 1065.732,
+    "gas_flow": 143.5379,
+    "etch_time": 48.861,
+    "yield_pct": 97.1333,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0145",
+    "temperature": 191.3936,
+    "pressure": 2.7186,
+    "rf_power": 767.0283,
+    "gas_flow": 63.3687,
+    "etch_time": 58.2701,
+    "yield_pct": 97.5691,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0146",
+    "temperature": 181.4755,
+    "pressure": 7.3432,
+    "rf_power": 1378.63,
+    "gas_flow": 163.2906,
+    "etch_time": 79.2982,
+    "yield_pct": 96.642,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0147",
+    "temperature": 204.3826,
+    "pressure": 5.5616,
+    "rf_power": 1297.426,
+    "gas_flow": 69.157,
+    "etch_time": 57.5559,
+    "yield_pct": 97.34,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0148",
+    "temperature": 200.1072,
+    "pressure": 6.0746,
+    "rf_power": 1158.4518,
+    "gas_flow": 173.9101,
+    "etch_time": 51.4679,
+    "yield_pct": 93.8598,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0149",
+    "temperature": 182.0592,
+    "pressure": 6.735,
+    "rf_power": 1350.5817,
+    "gas_flow": 167.3042,
+    "etch_time": 59.6527,
+    "yield_pct": 67.6786,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0150",
+    "temperature": 191.1459,
+    "pressure": 4.9907,
+    "rf_power": 1367.2942,
+    "gas_flow": 156.3117,
+    "etch_time": 79.695,
+    "yield_pct": 93.2114,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0151",
+    "temperature": 216.3306,
+    "pressure": 2.5215,
+    "rf_power": 1208.363,
+    "gas_flow": 55.4241,
+    "etch_time": 50.1125,
+    "yield_pct": 67.8854,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0152",
+    "temperature": 189.5825,
+    "pressure": 5.2226,
+    "rf_power": 1337.0133,
+    "gas_flow": 95.4693,
+    "etch_time": 40.4257,
+    "yield_pct": 92.2707,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0153",
+    "temperature": 185.7958,
+    "pressure": 5.521,
+    "rf_power": 1197.4715,
+    "gas_flow": 89.4669,
+    "etch_time": 72.7208,
+    "yield_pct": 97.1966,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0154",
+    "temperature": 199.5781,
+    "pressure": 6.4726,
+    "rf_power": 1180.1408,
+    "gas_flow": 104.0205,
+    "etch_time": 79.5587,
+    "yield_pct": 92.3828,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0155",
+    "temperature": 219.426,
+    "pressure": 4.59,
+    "rf_power": 1118.6114,
+    "gas_flow": 63.1464,
+    "etch_time": 36.0382,
+    "yield_pct": 93.5752,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0156",
+    "temperature": 189.6822,
+    "pressure": 2.7655,
+    "rf_power": 1252.7166,
+    "gas_flow": 190.5437,
+    "etch_time": 44.3924,
+    "yield_pct": 94.3041,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0157",
+    "temperature": 206.8854,
+    "pressure": 3.7027,
+    "rf_power": 658.6051,
+    "gas_flow": 133.0703,
+    "etch_time": 38.5183,
+    "yield_pct": 95.5344,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0158",
+    "temperature": 210.4648,
+    "pressure": 4.1785,
+    "rf_power": 1380.8708,
+    "gas_flow": 95.8286,
+    "etch_time": 50.8765,
+    "yield_pct": 94.0642,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0159",
+    "temperature": 189.5055,
+    "pressure": 5.8755,
+    "rf_power": 1371.8435,
+    "gas_flow": 109.5472,
+    "etch_time": 57.0211,
+    "yield_pct": 95.9948,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0160",
+    "temperature": 209.1287,
+    "pressure": 5.4247,
+    "rf_power": 529.2473,
+    "gas_flow": 117.0804,
+    "etch_time": 74.9296,
+    "yield_pct": 93.0365,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0161",
+    "temperature": 194.7113,
+    "pressure": 4.1366,
+    "rf_power": 1325.8168,
+    "gas_flow": 140.0892,
+    "etch_time": 69.0689,
+    "yield_pct": 94.5817,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0162",
+    "temperature": 205.2922,
+    "pressure": 7.9191,
+    "rf_power": 628.8699,
+    "gas_flow": 127.3519,
+    "etch_time": 67.2557,
+    "yield_pct": 92.395,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0163",
+    "temperature": 205.3412,
+    "pressure": 5.6346,
+    "rf_power": 835.1189,
+    "gas_flow": 187.9088,
+    "etch_time": 51.1425,
+    "yield_pct": 94.4638,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0164",
+    "temperature": 201.431,
+    "pressure": 3.4234,
+    "rf_power": 1243.5083,
+    "gas_flow": 124.5445,
+    "etch_time": 80.4869,
+    "yield_pct": 93.2723,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0165",
+    "temperature": 183.6116,
+    "pressure": 2.6107,
+    "rf_power": 660.7599,
+    "gas_flow": 198.8237,
+    "etch_time": 58.2772,
+    "yield_pct": 95.578,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0166",
+    "temperature": 213.4121,
+    "pressure": 2.9172,
+    "rf_power": 1317.967,
+    "gas_flow": 177.7137,
+    "etch_time": 88.7463,
+    "yield_pct": 96.9598,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0167",
+    "temperature": 192.8312,
+    "pressure": 3.4757,
+    "rf_power": 1332.1342,
+    "gas_flow": 81.2766,
+    "etch_time": 68.0485,
+    "yield_pct": 94.7082,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0168",
+    "temperature": 187.4607,
+    "pressure": 2.9641,
+    "rf_power": 1007.4677,
+    "gas_flow": 189.5893,
+    "etch_time": 37.5759,
+    "yield_pct": 93.3095,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0169",
+    "temperature": 181.631,
+    "pressure": 3.1194,
+    "rf_power": 506.3859,
+    "gas_flow": 67.455,
+    "etch_time": 70.5707,
+    "yield_pct": 95.5733,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0170",
+    "temperature": 203.6357,
+    "pressure": 3.7106,
+    "rf_power": 787.0381,
+    "gas_flow": 172.6175,
+    "etch_time": 49.5062,
+    "yield_pct": 97.4062,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0171",
+    "temperature": 207.1026,
+    "pressure": 3.0402,
+    "rf_power": 1116.9269,
+    "gas_flow": 107.0935,
+    "etch_time": 71.1796,
+    "yield_pct": 95.9939,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0172",
+    "temperature": 180.6635,
+    "pressure": 7.3806,
+    "rf_power": 1481.1862,
+    "gas_flow": 181.6961,
+    "etch_time": 34.1785,
+    "yield_pct": 95.5676,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0173",
+    "temperature": 200.4837,
+    "pressure": 2.4814,
+    "rf_power": 1131.8135,
+    "gas_flow": 180.2085,
+    "etch_time": 40.4929,
+    "yield_pct": 76.5022,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0174",
+    "temperature": 189.0598,
+    "pressure": 5.1471,
+    "rf_power": 759.8036,
+    "gas_flow": 170.8888,
+    "etch_time": 81.3442,
+    "yield_pct": 95.9095,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0175",
+    "temperature": 205.8069,
+    "pressure": 10.0104,
+    "rf_power": 1134.0057,
+    "gas_flow": 168.5046,
+    "etch_time": 43.6308,
+    "yield_pct": 72.8512,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0176",
+    "temperature": 186.9747,
+    "pressure": 7.8943,
+    "rf_power": 1039.9854,
+    "gas_flow": 95.7019,
+    "etch_time": 80.2225,
+    "yield_pct": 96.7738,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0177",
+    "temperature": 207.6375,
+    "pressure": 10.3835,
+    "rf_power": 1279.8454,
+    "gas_flow": 62.1379,
+    "etch_time": 46.7566,
+    "yield_pct": 67.2218,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0178",
+    "temperature": 195.4694,
+    "pressure": 4.3871,
+    "rf_power": 606.9806,
+    "gas_flow": 110.447,
+    "etch_time": 68.5729,
+    "yield_pct": 92.4872,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0179",
+    "temperature": 217.4692,
+    "pressure": 7.8168,
+    "rf_power": 1261.0279,
+    "gas_flow": 76.0287,
+    "etch_time": 71.649,
+    "yield_pct": 93.3652,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0180",
+    "temperature": 185.5008,
+    "pressure": 7.193,
+    "rf_power": 1041.2666,
+    "gas_flow": 154.2427,
+    "etch_time": 60.7593,
+    "yield_pct": 97.2186,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0181",
+    "temperature": 193.6427,
+    "pressure": 6.9024,
+    "rf_power": 1462.992,
+    "gas_flow": 101.915,
+    "etch_time": 48.3186,
+    "yield_pct": 92.411,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0182",
+    "temperature": 184.5389,
+    "pressure": 3.5474,
+    "rf_power": 841.8722,
+    "gas_flow": 196.3415,
+    "etch_time": 42.7587,
+    "yield_pct": 73.0005,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0183",
+    "temperature": 216.9877,
+    "pressure": 3.0253,
+    "rf_power": 1132.6219,
+    "gas_flow": 146.1458,
+    "etch_time": 31.9914,
+    "yield_pct": 93.0291,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0184",
+    "temperature": 242.5343,
+    "pressure": 6.0119,
+    "rf_power": 1432.0281,
+    "gas_flow": 173.3721,
+    "etch_time": 48.2368,
+    "yield_pct": 73.073,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0185",
+    "temperature": 190.3177,
+    "pressure": 7.5763,
+    "rf_power": 602.5097,
+    "gas_flow": 69.8787,
+    "etch_time": 69.1898,
+    "yield_pct": 92.2353,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0186",
+    "temperature": 206.3994,
+    "pressure": 5.3406,
+    "rf_power": 1437.2285,
+    "gas_flow": 179.3022,
+    "etch_time": 86.2983,
+    "yield_pct": 66.5267,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0187",
+    "temperature": 212.6889,
+    "pressure": 5.4297,
+    "rf_power": 1187.8857,
+    "gas_flow": 188.4136,
+    "etch_time": 82.2723,
+    "yield_pct": 64.8508,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0188",
+    "temperature": 202.208,
+    "pressure": 3.6799,
+    "rf_power": 567.8371,
+    "gas_flow": 123.0593,
+    "etch_time": 75.9639,
+    "yield_pct": 96.7353,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0189",
+    "temperature": 201.186,
+    "pressure": 6.617,
+    "rf_power": 800.9636,
+    "gas_flow": 140.9379,
+    "etch_time": 77.3068,
+    "yield_pct": 93.2672,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0190",
+    "temperature": 242.6892,
+    "pressure": 3.1223,
+    "rf_power": 1208.1721,
+    "gas_flow": 164.7215,
+    "etch_time": 69.8991,
+    "yield_pct": 67.9827,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0191",
+    "temperature": 183.7241,
+    "pressure": 3.9421,
+    "rf_power": 567.3506,
+    "gas_flow": 76.2258,
+    "etch_time": 45.6172,
+    "yield_pct": 96.9871,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0192",
+    "temperature": 215.8886,
+    "pressure": 4.5526,
+    "rf_power": 1082.1705,
+    "gas_flow": 125.3849,
+    "etch_time": 84.4317,
+    "yield_pct": 96.1952,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0193",
+    "temperature": 216.0167,
+    "pressure": 5.0457,
+    "rf_power": 845.8831,
+    "gas_flow": 109.7995,
+    "etch_time": 70.2439,
+    "yield_pct": 92.7084,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0194",
+    "temperature": 205.3241,
+    "pressure": 3.4545,
+    "rf_power": 1120.9155,
+    "gas_flow": 71.9561,
+    "etch_time": 63.6264,
+    "yield_pct": 69.0414,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0195",
+    "temperature": 193.5612,
+    "pressure": 9.9768,
+    "rf_power": 545.742,
+    "gas_flow": 105.1302,
+    "etch_time": 36.6594,
+    "yield_pct": 64.9137,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0196",
+    "temperature": 193.9684,
+    "pressure": 5.6637,
+    "rf_power": 1371.5368,
+    "gas_flow": 60.2258,
+    "etch_time": 56.8233,
+    "yield_pct": 93.6535,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0197",
+    "temperature": 209.0382,
+    "pressure": 3.7318,
+    "rf_power": 1473.489,
+    "gas_flow": 53.8718,
+    "etch_time": 57.6215,
+    "yield_pct": 94.196,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0198",
+    "temperature": 215.8844,
+    "pressure": 5.4874,
+    "rf_power": 1468.8779,
+    "gas_flow": 70.2749,
+    "etch_time": 81.8738,
+    "yield_pct": 97.8083,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0199",
+    "temperature": 215.4835,
+    "pressure": 2.9262,
+    "rf_power": 1249.6518,
+    "gas_flow": 194.4673,
+    "etch_time": 62.7989,
+    "yield_pct": 96.7382,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0200",
+    "temperature": 211.195,
+    "pressure": 4.8868,
+    "rf_power": 630.0862,
+    "gas_flow": 132.4294,
+    "etch_time": 52.824,
+    "yield_pct": 94.9881,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0201",
+    "temperature": 205.6813,
+    "pressure": 5.1955,
+    "rf_power": 1258.2632,
+    "gas_flow": 194.8733,
+    "etch_time": 88.608,
+    "yield_pct": 94.8273,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0202",
+    "temperature": 183.3656,
+    "pressure": 2.3109,
+    "rf_power": 524.5869,
+    "gas_flow": 114.8747,
+    "etch_time": 36.6432,
+    "yield_pct": 93.5903,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0203",
+    "temperature": 186.4651,
+    "pressure": 4.0196,
+    "rf_power": 522.1236,
+    "gas_flow": 96.7724,
+    "etch_time": 55.3529,
+    "yield_pct": 94.7625,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0204",
+    "temperature": 215.9422,
+    "pressure": 2.8065,
+    "rf_power": 823.6102,
+    "gas_flow": 125.9213,
+    "etch_time": 32.5215,
+    "yield_pct": 94.7642,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0205",
+    "temperature": 204.2572,
+    "pressure": 2.3802,
+    "rf_power": 988.6432,
+    "gas_flow": 115.9268,
+    "etch_time": 74.3942,
+    "yield_pct": 94.1088,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0206",
+    "temperature": 180.3679,
+    "pressure": 7.9398,
+    "rf_power": 1270.4074,
+    "gas_flow": 65.8497,
+    "etch_time": 85.0846,
+    "yield_pct": 92.3659,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0207",
+    "temperature": 184.0589,
+    "pressure": 3.9341,
+    "rf_power": 1183.2954,
+    "gas_flow": 146.1239,
+    "etch_time": 46.8022,
+    "yield_pct": 97.8877,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0208",
+    "temperature": 206.5401,
+    "pressure": 6.8592,
+    "rf_power": 945.9027,
+    "gas_flow": 82.4057,
+    "etch_time": 81.5005,
+    "yield_pct": 97.2655,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0209",
+    "temperature": 180.2025,
+    "pressure": 3.5278,
+    "rf_power": 773.6267,
+    "gas_flow": 142.9382,
+    "etch_time": 47.5331,
+    "yield_pct": 94.9457,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0210",
+    "temperature": 186.4323,
+    "pressure": 6.089,
+    "rf_power": 1497.1245,
+    "gas_flow": 147.5302,
+    "etch_time": 84.6462,
+    "yield_pct": 95.0195,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0211",
+    "temperature": 201.9494,
+    "pressure": 6.5614,
+    "rf_power": 926.1813,
+    "gas_flow": 72.8037,
+    "etch_time": 75.2377,
+    "yield_pct": 92.4551,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0212",
+    "temperature": 207.6758,
+    "pressure": 5.5738,
+    "rf_power": 951.387,
+    "gas_flow": 59.2024,
+    "etch_time": 78.2944,
+    "yield_pct": 94.6747,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0213",
+    "temperature": 206.0785,
+    "pressure": 4.8295,
+    "rf_power": 663.6238,
+    "gas_flow": 167.1142,
+    "etch_time": 31.0804,
+    "yield_pct": 95.7046,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0214",
+    "temperature": 188.9708,
+    "pressure": 4.471,
+    "rf_power": 1294.8095,
+    "gas_flow": 118.9701,
+    "etch_time": 87.7686,
+    "yield_pct": 97.6219,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0215",
+    "temperature": 208.4872,
+    "pressure": 4.0932,
+    "rf_power": 1193.6822,
+    "gas_flow": 58.7246,
+    "etch_time": 73.6003,
+    "yield_pct": 72.4152,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0216",
+    "temperature": 189.49,
+    "pressure": 7.5772,
+    "rf_power": 720.7696,
+    "gas_flow": 199.2299,
+    "etch_time": 48.2851,
+    "yield_pct": 97.435,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0217",
+    "temperature": 193.016,
+    "pressure": 6.9837,
+    "rf_power": 582.381,
+    "gas_flow": 58.6671,
+    "etch_time": 79.7637,
+    "yield_pct": 76.4399,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0218",
+    "temperature": 209.8597,
+    "pressure": 7.7902,
+    "rf_power": 1180.4993,
+    "gas_flow": 154.2553,
+    "etch_time": 46.8913,
+    "yield_pct": 93.0703,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0219",
+    "temperature": 205.9853,
+    "pressure": 2.7458,
+    "rf_power": 1154.5112,
+    "gas_flow": 197.5518,
+    "etch_time": 82.3652,
+    "yield_pct": 92.9812,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0220",
+    "temperature": 213.9689,
+    "pressure": 6.3852,
+    "rf_power": 773.2595,
+    "gas_flow": 85.877,
+    "etch_time": 36.7548,
+    "yield_pct": 95.5217,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0221",
+    "temperature": 206.3045,
+    "pressure": 7.63,
+    "rf_power": 1450.8636,
+    "gas_flow": 71.3374,
+    "etch_time": 72.2212,
+    "yield_pct": 92.1049,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0222",
+    "temperature": 202.7323,
+    "pressure": 3.0874,
+    "rf_power": 651.0579,
+    "gas_flow": 68.2077,
+    "etch_time": 62.4419,
+    "yield_pct": 94.8709,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0223",
+    "temperature": 183.747,
+    "pressure": 2.399,
+    "rf_power": 932.3348,
+    "gas_flow": 95.4913,
+    "etch_time": 35.7921,
+    "yield_pct": 92.1612,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0224",
+    "temperature": 194.7086,
+    "pressure": 6.4467,
+    "rf_power": 1443.6159,
+    "gas_flow": 65.1569,
+    "etch_time": 44.5136,
+    "yield_pct": 93.6554,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0225",
+    "temperature": 190.6081,
+    "pressure": 5.4468,
+    "rf_power": 919.7273,
+    "gas_flow": 153.8242,
+    "etch_time": 30.7442,
+    "yield_pct": 96.6969,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0226",
+    "temperature": 189.7596,
+    "pressure": 7.051,
+    "rf_power": 1138.5259,
+    "gas_flow": 59.3438,
+    "etch_time": 58.1261,
+    "yield_pct": 95.9478,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0227",
+    "temperature": 218.9204,
+    "pressure": 2.8386,
+    "rf_power": 897.5944,
+    "gas_flow": 126.4133,
+    "etch_time": 48.0759,
+    "yield_pct": 92.0811,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0228",
+    "temperature": 195.7239,
+    "pressure": 6.7716,
+    "rf_power": 774.2152,
+    "gas_flow": 199.5045,
+    "etch_time": 65.9014,
+    "yield_pct": 92.1392,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0229",
+    "temperature": 215.6819,
+    "pressure": 3.2098,
+    "rf_power": 1483.9776,
+    "gas_flow": 172.0955,
+    "etch_time": 47.8343,
+    "yield_pct": 94.5978,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0230",
+    "temperature": 235.886,
+    "pressure": 2.9819,
+    "rf_power": 909.334,
+    "gas_flow": 142.2829,
+    "etch_time": 47.9951,
+    "yield_pct": 77.8011,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0231",
+    "temperature": 211.7925,
+    "pressure": 2.9856,
+    "rf_power": 1394.0992,
+    "gas_flow": 95.938,
+    "etch_time": 74.5916,
+    "yield_pct": 95.4998,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0232",
+    "temperature": 200.1055,
+    "pressure": 6.8874,
+    "rf_power": 729.9546,
+    "gas_flow": 143.5844,
+    "etch_time": 32.8886,
+    "yield_pct": 96.5711,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0233",
+    "temperature": 203.0762,
+    "pressure": 5.9912,
+    "rf_power": 713.1047,
+    "gas_flow": 129.0562,
+    "etch_time": 84.1737,
+    "yield_pct": 77.2451,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0234",
+    "temperature": 199.7007,
+    "pressure": 5.1384,
+    "rf_power": 531.1341,
+    "gas_flow": 113.9125,
+    "etch_time": 81.1358,
+    "yield_pct": 93.3029,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0235",
+    "temperature": 187.8097,
+    "pressure": 4.153,
+    "rf_power": 1151.6668,
+    "gas_flow": 69.6066,
+    "etch_time": 70.0683,
+    "yield_pct": 95.7983,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0236",
+    "temperature": 208.8981,
+    "pressure": 7.2632,
+    "rf_power": 868.5263,
+    "gas_flow": 182.9906,
+    "etch_time": 65.5933,
+    "yield_pct": 68.1282,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0237",
+    "temperature": 191.2309,
+    "pressure": 4.3547,
+    "rf_power": 1364.3582,
+    "gas_flow": 117.4677,
+    "etch_time": 83.5381,
+    "yield_pct": 94.0345,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0238",
+    "temperature": 180.9726,
+    "pressure": 6.8996,
+    "rf_power": 973.2099,
+    "gas_flow": 79.1934,
+    "etch_time": 41.1198,
+    "yield_pct": 97.6942,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0239",
+    "temperature": 205.8189,
+    "pressure": 4.6348,
+    "rf_power": 1468.1934,
+    "gas_flow": 105.1639,
+    "etch_time": 34.7381,
+    "yield_pct": 95.2574,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0240",
+    "temperature": 187.0844,
+    "pressure": 4.2617,
+    "rf_power": 685.5255,
+    "gas_flow": 112.1195,
+    "etch_time": 44.3706,
+    "yield_pct": 95.815,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0241",
+    "temperature": 217.6183,
+    "pressure": 4.7761,
+    "rf_power": 1368.6232,
+    "gas_flow": 174.1307,
+    "etch_time": 77.6747,
+    "yield_pct": 92.2863,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0242",
+    "temperature": 218.1571,
+    "pressure": 3.8083,
+    "rf_power": 1276.5969,
+    "gas_flow": 160.0422,
+    "etch_time": 32.0802,
+    "yield_pct": 96.4149,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0243",
+    "temperature": 216.5946,
+    "pressure": 6.4857,
+    "rf_power": 1270.9218,
+    "gas_flow": 165.3957,
+    "etch_time": 64.9684,
+    "yield_pct": 95.3006,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0244",
+    "temperature": 194.8063,
+    "pressure": 5.0163,
+    "rf_power": 1344.7832,
+    "gas_flow": 51.6547,
+    "etch_time": 89.7263,
+    "yield_pct": 94.5202,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0245",
+    "temperature": 180.6183,
+    "pressure": 3.3933,
+    "rf_power": 1261.024,
+    "gas_flow": 112.4231,
+    "etch_time": 81.3418,
+    "yield_pct": 92.9972,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0246",
+    "temperature": 217.1327,
+    "pressure": 7.3974,
+    "rf_power": 1126.2203,
+    "gas_flow": 122.2016,
+    "etch_time": 61.2867,
+    "yield_pct": 94.8502,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0247",
+    "temperature": 197.1274,
+    "pressure": 4.3033,
+    "rf_power": 631.2449,
+    "gas_flow": 52.8788,
+    "etch_time": 33.8185,
+    "yield_pct": 96.3491,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0248",
+    "temperature": 218.6662,
+    "pressure": 5.2613,
+    "rf_power": 532.5262,
+    "gas_flow": 88.972,
+    "etch_time": 79.8824,
+    "yield_pct": 95.5038,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0249",
+    "temperature": 218.5448,
+    "pressure": 7.4388,
+    "rf_power": 1420.8478,
+    "gas_flow": 164.0435,
+    "etch_time": 65.9387,
+    "yield_pct": 93.6441,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0250",
+    "temperature": 214.1204,
+    "pressure": 5.7454,
+    "rf_power": 1116.6503,
+    "gas_flow": 70.5665,
+    "etch_time": 36.896,
+    "yield_pct": 95.067,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0251",
+    "temperature": 191.778,
+    "pressure": 2.7014,
+    "rf_power": 1296.5373,
+    "gas_flow": 130.2965,
+    "etch_time": 35.6314,
+    "yield_pct": 96.6266,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0252",
+    "temperature": 195.4039,
+    "pressure": 7.639,
+    "rf_power": 981.5224,
+    "gas_flow": 82.2803,
+    "etch_time": 84.5776,
+    "yield_pct": 96.4839,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0253",
+    "temperature": 214.0455,
+    "pressure": 5.7662,
+    "rf_power": 617.3082,
+    "gas_flow": 51.8181,
+    "etch_time": 70.152,
+    "yield_pct": 95.9735,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0254",
+    "temperature": 192.6769,
+    "pressure": 4.0094,
+    "rf_power": 625.1858,
+    "gas_flow": 86.1802,
+    "etch_time": 79.7572,
+    "yield_pct": 92.1308,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0255",
+    "temperature": 186.7797,
+    "pressure": 2.8356,
+    "rf_power": 1185.5653,
+    "gas_flow": 196.3811,
+    "etch_time": 82.7387,
+    "yield_pct": 97.4371,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0256",
+    "temperature": 202.2721,
+    "pressure": 6.7642,
+    "rf_power": 930.3059,
+    "gas_flow": 170.2306,
+    "etch_time": 64.3063,
+    "yield_pct": 94.7804,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0257",
+    "temperature": 217.4462,
+    "pressure": 5.7204,
+    "rf_power": 700.5247,
+    "gas_flow": 193.9365,
+    "etch_time": 61.0468,
+    "yield_pct": 92.3484,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0258",
+    "temperature": 207.8412,
+    "pressure": 5.2008,
+    "rf_power": 991.5945,
+    "gas_flow": 123.1781,
+    "etch_time": 55.8256,
+    "yield_pct": 96.0292,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0259",
+    "temperature": 202.8024,
+    "pressure": 10.3275,
+    "rf_power": 564.2089,
+    "gas_flow": 66.4604,
+    "etch_time": 49.0168,
+    "yield_pct": 78.5867,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0260",
+    "temperature": 183.8871,
+    "pressure": 6.7316,
+    "rf_power": 1081.9714,
+    "gas_flow": 132.1939,
+    "etch_time": 56.0758,
+    "yield_pct": 97.5147,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0261",
+    "temperature": 204.6003,
+    "pressure": 2.91,
+    "rf_power": 768.9934,
+    "gas_flow": 118.1566,
+    "etch_time": 76.4328,
+    "yield_pct": 94.7301,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0262",
+    "temperature": 219.6022,
+    "pressure": 3.8703,
+    "rf_power": 1297.5591,
+    "gas_flow": 176.6536,
+    "etch_time": 66.1154,
+    "yield_pct": 94.4183,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0263",
+    "temperature": 185.6034,
+    "pressure": 3.4909,
+    "rf_power": 810.362,
+    "gas_flow": 64.7124,
+    "etch_time": 83.5514,
+    "yield_pct": 97.5186,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0264",
+    "temperature": 200.7332,
+    "pressure": 6.4637,
+    "rf_power": 955.2201,
+    "gas_flow": 123.2362,
+    "etch_time": 56.6028,
+    "yield_pct": 93.101,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0265",
+    "temperature": 215.0949,
+    "pressure": 2.2012,
+    "rf_power": 511.6205,
+    "gas_flow": 72.5073,
+    "etch_time": 66.4254,
+    "yield_pct": 94.0874,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0266",
+    "temperature": 209.6307,
+    "pressure": 5.4193,
+    "rf_power": 572.4469,
+    "gas_flow": 98.7014,
+    "etch_time": 67.8785,
+    "yield_pct": 96.0276,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0267",
+    "temperature": 207.8806,
+    "pressure": 6.5748,
+    "rf_power": 892.4936,
+    "gas_flow": 160.6036,
+    "etch_time": 65.5018,
+    "yield_pct": 97.1306,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0268",
+    "temperature": 208.0994,
+    "pressure": 7.2606,
+    "rf_power": 979.9388,
+    "gas_flow": 121.4027,
+    "etch_time": 72.158,
+    "yield_pct": 92.5096,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0269",
+    "temperature": 194.3796,
+    "pressure": 4.0525,
+    "rf_power": 1100.0205,
+    "gas_flow": 106.3832,
+    "etch_time": 44.246,
+    "yield_pct": 94.7679,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0270",
+    "temperature": 191.7437,
+    "pressure": 6.9275,
+    "rf_power": 791.6626,
+    "gas_flow": 109.1714,
+    "etch_time": 60.7418,
+    "yield_pct": 97.1295,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0271",
+    "temperature": 212.3744,
+    "pressure": 2.6638,
+    "rf_power": 1194.9819,
+    "gas_flow": 118.917,
+    "etch_time": 36.2535,
+    "yield_pct": 94.222,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0272",
+    "temperature": 212.4045,
+    "pressure": 7.0787,
+    "rf_power": 1360.1224,
+    "gas_flow": 167.7525,
+    "etch_time": 53.0707,
+    "yield_pct": 93.2743,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0273",
+    "temperature": 214.6829,
+    "pressure": 2.7649,
+    "rf_power": 1279.851,
+    "gas_flow": 183.8127,
+    "etch_time": 59.26,
+    "yield_pct": 94.1012,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0274",
+    "temperature": 216.5296,
+    "pressure": 4.3837,
+    "rf_power": 539.6188,
+    "gas_flow": 193.3002,
+    "etch_time": 69.1335,
+    "yield_pct": 97.0858,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0275",
+    "temperature": 244.9782,
+    "pressure": 6.7838,
+    "rf_power": 980.5069,
+    "gas_flow": 168.0355,
+    "etch_time": 87.0319,
+    "yield_pct": 68.9376,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0276",
+    "temperature": 200.0607,
+    "pressure": 2.8995,
+    "rf_power": 604.9302,
+    "gas_flow": 97.311,
+    "etch_time": 66.0391,
+    "yield_pct": 96.257,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0277",
+    "temperature": 211.9318,
+    "pressure": 3.3755,
+    "rf_power": 742.045,
+    "gas_flow": 153.2202,
+    "etch_time": 74.6156,
+    "yield_pct": 96.0757,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0278",
+    "temperature": 205.9986,
+    "pressure": 6.3335,
+    "rf_power": 1486.6626,
+    "gas_flow": 115.6405,
+    "etch_time": 60.376,
+    "yield_pct": 93.631,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0279",
+    "temperature": 208.0787,
+    "pressure": 6.3202,
+    "rf_power": 642.4955,
+    "gas_flow": 88.2006,
+    "etch_time": 68.0462,
+    "yield_pct": 92.5282,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0280",
+    "temperature": 211.8317,
+    "pressure": 9.6093,
+    "rf_power": 998.8882,
+    "gas_flow": 176.1307,
+    "etch_time": 34.2559,
+    "yield_pct": 63.1,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0281",
+    "temperature": 215.6002,
+    "pressure": 6.1637,
+    "rf_power": 1118.1557,
+    "gas_flow": 55.764,
+    "etch_time": 45.2635,
+    "yield_pct": 95.7843,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0282",
+    "temperature": 193.5198,
+    "pressure": 5.2563,
+    "rf_power": 1202.465,
+    "gas_flow": 185.2643,
+    "etch_time": 51.7112,
+    "yield_pct": 93.2037,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0283",
+    "temperature": 241.7682,
+    "pressure": 3.5108,
+    "rf_power": 1059.6487,
+    "gas_flow": 119.2216,
+    "etch_time": 58.3496,
+    "yield_pct": 81.3499,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0284",
+    "temperature": 183.7593,
+    "pressure": 4.0742,
+    "rf_power": 509.7708,
+    "gas_flow": 145.5802,
+    "etch_time": 32.7389,
+    "yield_pct": 97.7498,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0285",
+    "temperature": 203.1312,
+    "pressure": 3.0896,
+    "rf_power": 826.4613,
+    "gas_flow": 148.9031,
+    "etch_time": 38.4014,
+    "yield_pct": 95.6915,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0286",
+    "temperature": 181.4377,
+    "pressure": 7.4507,
+    "rf_power": 1017.7116,
+    "gas_flow": 184.2677,
+    "etch_time": 46.6089,
+    "yield_pct": 97.9948,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0287",
+    "temperature": 198.6239,
+    "pressure": 5.5004,
+    "rf_power": 587.8665,
+    "gas_flow": 145.5005,
+    "etch_time": 88.292,
+    "yield_pct": 95.0313,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0288",
+    "temperature": 201.7058,
+    "pressure": 9.9391,
+    "rf_power": 850.6269,
+    "gas_flow": 142.09,
+    "etch_time": 49.8808,
+    "yield_pct": 75.5837,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0289",
+    "temperature": 191.4617,
+    "pressure": 4.772,
+    "rf_power": 533.2031,
+    "gas_flow": 59.9978,
+    "etch_time": 58.9225,
+    "yield_pct": 96.2121,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0290",
+    "temperature": 203.6333,
+    "pressure": 7.6837,
+    "rf_power": 578.5785,
+    "gas_flow": 127.7612,
+    "etch_time": 41.7659,
+    "yield_pct": 92.5788,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0291",
+    "temperature": 181.22,
+    "pressure": 2.9201,
+    "rf_power": 896.9233,
+    "gas_flow": 72.5254,
+    "etch_time": 66.6468,
+    "yield_pct": 96.7504,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0292",
+    "temperature": 181.4939,
+    "pressure": 5.5174,
+    "rf_power": 632.7158,
+    "gas_flow": 160.6151,
+    "etch_time": 46.841,
+    "yield_pct": 94.0065,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0293",
+    "temperature": 212.904,
+    "pressure": 5.0353,
+    "rf_power": 1067.5408,
+    "gas_flow": 126.8333,
+    "etch_time": 42.4196,
+    "yield_pct": 97.1024,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0294",
+    "temperature": 194.4076,
+    "pressure": 5.6687,
+    "rf_power": 1189.465,
+    "gas_flow": 152.0342,
+    "etch_time": 60.9944,
+    "yield_pct": 97.2617,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0295",
+    "temperature": 185.0824,
+    "pressure": 2.1087,
+    "rf_power": 1300.5867,
+    "gas_flow": 56.2509,
+    "etch_time": 30.3303,
+    "yield_pct": 95.1159,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0296",
+    "temperature": 200.8897,
+    "pressure": 10.347,
+    "rf_power": 700.1502,
+    "gas_flow": 62.7188,
+    "etch_time": 30.4598,
+    "yield_pct": 71.8754,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0297",
+    "temperature": 210.7997,
+    "pressure": 7.5927,
+    "rf_power": 667.4826,
+    "gas_flow": 157.4485,
+    "etch_time": 43.1441,
+    "yield_pct": 93.3125,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0298",
+    "temperature": 188.6328,
+    "pressure": 5.3908,
+    "rf_power": 604.5678,
+    "gas_flow": 60.8127,
+    "etch_time": 32.2033,
+    "yield_pct": 96.7021,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0299",
+    "temperature": 204.9156,
+    "pressure": 6.1799,
+    "rf_power": 1136.4302,
+    "gas_flow": 60.6885,
+    "etch_time": 36.4815,
+    "yield_pct": 96.4436,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0300",
+    "temperature": 183.4139,
+    "pressure": 7.535,
+    "rf_power": 1206.4757,
+    "gas_flow": 51.8163,
+    "etch_time": 50.3316,
+    "yield_pct": 92.9225,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0301",
+    "temperature": 182.0673,
+    "pressure": 6.2434,
+    "rf_power": 531.5861,
+    "gas_flow": 193.4752,
+    "etch_time": 78.1551,
+    "yield_pct": 92.4686,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0302",
+    "temperature": 201.2542,
+    "pressure": 2.9152,
+    "rf_power": 1436.2122,
+    "gas_flow": 160.6263,
+    "etch_time": 64.3229,
+    "yield_pct": 75.7059,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0303",
+    "temperature": 201.6254,
+    "pressure": 10.3931,
+    "rf_power": 551.9713,
+    "gas_flow": 102.9877,
+    "etch_time": 60.7601,
+    "yield_pct": 71.3516,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0304",
+    "temperature": 205.4972,
+    "pressure": 5.6403,
+    "rf_power": 1041.2963,
+    "gas_flow": 94.4803,
+    "etch_time": 47.6093,
+    "yield_pct": 96.2724,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0305",
+    "temperature": 209.0437,
+    "pressure": 4.5448,
+    "rf_power": 1209.0605,
+    "gas_flow": 102.4555,
+    "etch_time": 85.9052,
+    "yield_pct": 93.5988,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0306",
+    "temperature": 219.0341,
+    "pressure": 6.4187,
+    "rf_power": 1370.9691,
+    "gas_flow": 166.198,
+    "etch_time": 53.8209,
+    "yield_pct": 93.7724,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0307",
+    "temperature": 200.652,
+    "pressure": 7.6062,
+    "rf_power": 1214.0869,
+    "gas_flow": 149.2056,
+    "etch_time": 35.2256,
+    "yield_pct": 92.7564,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0308",
+    "temperature": 192.9183,
+    "pressure": 7.5534,
+    "rf_power": 1301.7281,
+    "gas_flow": 77.7793,
+    "etch_time": 67.024,
+    "yield_pct": 92.9284,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0309",
+    "temperature": 211.8074,
+    "pressure": 4.705,
+    "rf_power": 839.4502,
+    "gas_flow": 76.1164,
+    "etch_time": 36.8303,
+    "yield_pct": 80.8772,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0310",
+    "temperature": 190.8333,
+    "pressure": 2.6794,
+    "rf_power": 1314.8251,
+    "gas_flow": 64.7593,
+    "etch_time": 50.7134,
+    "yield_pct": 66.3027,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0311",
+    "temperature": 197.5589,
+    "pressure": 7.909,
+    "rf_power": 580.1148,
+    "gas_flow": 149.0454,
+    "etch_time": 60.4447,
+    "yield_pct": 92.4497,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0312",
+    "temperature": 183.1383,
+    "pressure": 7.0334,
+    "rf_power": 1394.8167,
+    "gas_flow": 164.6559,
+    "etch_time": 82.4534,
+    "yield_pct": 95.7052,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0313",
+    "temperature": 181.014,
+    "pressure": 2.748,
+    "rf_power": 1047.5924,
+    "gas_flow": 89.757,
+    "etch_time": 59.6128,
+    "yield_pct": 95.5389,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0314",
+    "temperature": 218.5059,
+    "pressure": 7.5251,
+    "rf_power": 1317.2978,
+    "gas_flow": 53.1417,
+    "etch_time": 72.1355,
+    "yield_pct": 95.7183,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0315",
+    "temperature": 213.4392,
+    "pressure": 7.2194,
+    "rf_power": 952.3183,
+    "gas_flow": 62.3258,
+    "etch_time": 89.569,
+    "yield_pct": 94.8096,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0316",
+    "temperature": 207.839,
+    "pressure": 5.113,
+    "rf_power": 1143.5777,
+    "gas_flow": 195.179,
+    "etch_time": 37.8893,
+    "yield_pct": 95.8794,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0317",
+    "temperature": 196.3581,
+    "pressure": 5.5477,
+    "rf_power": 1026.4027,
+    "gas_flow": 94.3167,
+    "etch_time": 46.4839,
+    "yield_pct": 71.724,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0318",
+    "temperature": 186.9318,
+    "pressure": 4.394,
+    "rf_power": 1231.5895,
+    "gas_flow": 165.3835,
+    "etch_time": 53.6746,
+    "yield_pct": 95.831,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0319",
+    "temperature": 186.2575,
+    "pressure": 2.3286,
+    "rf_power": 581.63,
+    "gas_flow": 143.6995,
+    "etch_time": 55.3097,
+    "yield_pct": 94.7849,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0320",
+    "temperature": 190.0097,
+    "pressure": 4.0112,
+    "rf_power": 560.3521,
+    "gas_flow": 107.2909,
+    "etch_time": 54.6613,
+    "yield_pct": 96.1414,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0321",
+    "temperature": 201.9691,
+    "pressure": 6.8171,
+    "rf_power": 747.1032,
+    "gas_flow": 80.8531,
+    "etch_time": 84.4567,
+    "yield_pct": 95.5556,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0322",
+    "temperature": 208.5838,
+    "pressure": 2.0278,
+    "rf_power": 659.5447,
+    "gas_flow": 68.208,
+    "etch_time": 72.842,
+    "yield_pct": 66.5207,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0323",
+    "temperature": 206.4079,
+    "pressure": 4.001,
+    "rf_power": 1371.7836,
+    "gas_flow": 142.2519,
+    "etch_time": 66.4743,
+    "yield_pct": 92.6253,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0324",
+    "temperature": 191.1974,
+    "pressure": 4.389,
+    "rf_power": 719.214,
+    "gas_flow": 166.1951,
+    "etch_time": 48.5624,
+    "yield_pct": 97.1375,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0325",
+    "temperature": 218.1946,
+    "pressure": 5.2244,
+    "rf_power": 1475.8653,
+    "gas_flow": 146.5856,
+    "etch_time": 79.4274,
+    "yield_pct": 95.8155,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0326",
+    "temperature": 209.5159,
+    "pressure": 7.5191,
+    "rf_power": 836.8958,
+    "gas_flow": 129.5453,
+    "etch_time": 87.3036,
+    "yield_pct": 81.6478,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0327",
+    "temperature": 202.1742,
+    "pressure": 4.0781,
+    "rf_power": 682.1179,
+    "gas_flow": 56.2927,
+    "etch_time": 79.2719,
+    "yield_pct": 97.6981,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0328",
+    "temperature": 204.4688,
+    "pressure": 4.0817,
+    "rf_power": 1289.6985,
+    "gas_flow": 195.2733,
+    "etch_time": 30.0939,
+    "yield_pct": 63.664,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0329",
+    "temperature": 196.784,
+    "pressure": 6.425,
+    "rf_power": 1158.7078,
+    "gas_flow": 169.8071,
+    "etch_time": 68.1841,
+    "yield_pct": 92.6043,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0330",
+    "temperature": 189.9092,
+    "pressure": 4.7133,
+    "rf_power": 998.1957,
+    "gas_flow": 93.9233,
+    "etch_time": 33.0681,
+    "yield_pct": 96.3104,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0331",
+    "temperature": 194.2389,
+    "pressure": 3.3476,
+    "rf_power": 1055.3636,
+    "gas_flow": 196.9955,
+    "etch_time": 45.4564,
+    "yield_pct": 92.4724,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0332",
+    "temperature": 210.3138,
+    "pressure": 4.7146,
+    "rf_power": 1219.2018,
+    "gas_flow": 140.2822,
+    "etch_time": 33.5715,
+    "yield_pct": 72.1163,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0333",
+    "temperature": 180.5757,
+    "pressure": 2.8451,
+    "rf_power": 728.4547,
+    "gas_flow": 137.3634,
+    "etch_time": 66.2277,
+    "yield_pct": 74.1629,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0334",
+    "temperature": 184.6429,
+    "pressure": 3.0583,
+    "rf_power": 1496.3339,
+    "gas_flow": 162.211,
+    "etch_time": 71.1954,
+    "yield_pct": 96.6179,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0335",
+    "temperature": 181.8401,
+    "pressure": 4.9902,
+    "rf_power": 1474.7932,
+    "gas_flow": 171.7655,
+    "etch_time": 36.8693,
+    "yield_pct": 95.8554,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0336",
+    "temperature": 181.6292,
+    "pressure": 4.5136,
+    "rf_power": 1150.3257,
+    "gas_flow": 148.4718,
+    "etch_time": 53.0303,
+    "yield_pct": 93.2929,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0337",
+    "temperature": 214.2184,
+    "pressure": 7.4891,
+    "rf_power": 699.5425,
+    "gas_flow": 69.2144,
+    "etch_time": 57.3742,
+    "yield_pct": 96.9823,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0338",
+    "temperature": 208.1463,
+    "pressure": 4.1744,
+    "rf_power": 1180.2282,
+    "gas_flow": 100.7401,
+    "etch_time": 52.1432,
+    "yield_pct": 94.683,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0339",
+    "temperature": 242.6612,
+    "pressure": 5.4835,
+    "rf_power": 572.1984,
+    "gas_flow": 189.2125,
+    "etch_time": 37.2615,
+    "yield_pct": 67.9923,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0340",
+    "temperature": 183.9134,
+    "pressure": 5.7936,
+    "rf_power": 530.6525,
+    "gas_flow": 83.6923,
+    "etch_time": 55.1369,
+    "yield_pct": 97.4735,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0341",
+    "temperature": 199.6646,
+    "pressure": 2.0786,
+    "rf_power": 757.6829,
+    "gas_flow": 105.8251,
+    "etch_time": 75.0707,
+    "yield_pct": 93.7765,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0342",
+    "temperature": 198.9389,
+    "pressure": 5.9812,
+    "rf_power": 962.623,
+    "gas_flow": 114.8115,
+    "etch_time": 34.2605,
+    "yield_pct": 94.3712,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0343",
+    "temperature": 186.9281,
+    "pressure": 3.0682,
+    "rf_power": 1368.2725,
+    "gas_flow": 115.9107,
+    "etch_time": 34.8108,
+    "yield_pct": 92.6545,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0344",
+    "temperature": 243.4592,
+    "pressure": 7.7664,
+    "rf_power": 1227.1691,
+    "gas_flow": 141.9409,
+    "etch_time": 51.2863,
+    "yield_pct": 73.6231,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0345",
+    "temperature": 195.9402,
+    "pressure": 2.892,
+    "rf_power": 1242.7065,
+    "gas_flow": 191.4614,
+    "etch_time": 86.5035,
+    "yield_pct": 95.8474,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0346",
+    "temperature": 204.634,
+    "pressure": 4.4877,
+    "rf_power": 925.4933,
+    "gas_flow": 86.1039,
+    "etch_time": 70.1144,
+    "yield_pct": 95.138,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0347",
+    "temperature": 241.136,
+    "pressure": 2.5121,
+    "rf_power": 845.935,
+    "gas_flow": 68.2252,
+    "etch_time": 70.7202,
+    "yield_pct": 80.3453,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0348",
+    "temperature": 181.8122,
+    "pressure": 7.9812,
+    "rf_power": 871.0388,
+    "gas_flow": 79.6206,
+    "etch_time": 51.7152,
+    "yield_pct": 93.535,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0349",
+    "temperature": 194.9845,
+    "pressure": 5.0132,
+    "rf_power": 1487.6496,
+    "gas_flow": 183.0387,
+    "etch_time": 65.6196,
+    "yield_pct": 96.6395,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0350",
+    "temperature": 205.0344,
+    "pressure": 5.5723,
+    "rf_power": 540.1092,
+    "gas_flow": 146.8716,
+    "etch_time": 30.6079,
+    "yield_pct": 64.9901,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0351",
+    "temperature": 200.1255,
+    "pressure": 2.4025,
+    "rf_power": 1367.0315,
+    "gas_flow": 92.886,
+    "etch_time": 68.1658,
+    "yield_pct": 95.9244,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0352",
+    "temperature": 214.2596,
+    "pressure": 6.4998,
+    "rf_power": 1078.6754,
+    "gas_flow": 172.392,
+    "etch_time": 84.7972,
+    "yield_pct": 93.6104,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0353",
+    "temperature": 206.3477,
+    "pressure": 3.2594,
+    "rf_power": 938.6154,
+    "gas_flow": 179.2055,
+    "etch_time": 66.7544,
+    "yield_pct": 92.1101,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0354",
+    "temperature": 186.5174,
+    "pressure": 7.3883,
+    "rf_power": 1225.2577,
+    "gas_flow": 176.9772,
+    "etch_time": 82.4219,
+    "yield_pct": 94.6512,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0355",
+    "temperature": 182.8227,
+    "pressure": 3.2308,
+    "rf_power": 986.6689,
+    "gas_flow": 187.839,
+    "etch_time": 73.4384,
+    "yield_pct": 93.9041,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0356",
+    "temperature": 205.6968,
+    "pressure": 3.1441,
+    "rf_power": 1373.4232,
+    "gas_flow": 87.8362,
+    "etch_time": 37.2335,
+    "yield_pct": 94.5449,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0357",
+    "temperature": 181.0605,
+    "pressure": 2.2193,
+    "rf_power": 1400.7019,
+    "gas_flow": 163.2563,
+    "etch_time": 84.1472,
+    "yield_pct": 93.1281,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0358",
+    "temperature": 203.431,
+    "pressure": 9.6344,
+    "rf_power": 921.7209,
+    "gas_flow": 119.0809,
+    "etch_time": 33.9866,
+    "yield_pct": 75.8509,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0359",
+    "temperature": 217.6092,
+    "pressure": 5.389,
+    "rf_power": 776.8278,
+    "gas_flow": 176.2998,
+    "etch_time": 62.038,
+    "yield_pct": 95.4532,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0360",
+    "temperature": 203.019,
+    "pressure": 2.3943,
+    "rf_power": 1092.3503,
+    "gas_flow": 159.2736,
+    "etch_time": 38.5282,
+    "yield_pct": 66.6187,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0361",
+    "temperature": 239.8763,
+    "pressure": 6.6532,
+    "rf_power": 1412.3633,
+    "gas_flow": 166.4671,
+    "etch_time": 30.7024,
+    "yield_pct": 80.7064,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0362",
+    "temperature": 205.7315,
+    "pressure": 4.7197,
+    "rf_power": 710.6622,
+    "gas_flow": 148.4243,
+    "etch_time": 55.3221,
+    "yield_pct": 96.6797,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0363",
+    "temperature": 198.3301,
+    "pressure": 5.1463,
+    "rf_power": 1122.9666,
+    "gas_flow": 76.6143,
+    "etch_time": 47.7024,
+    "yield_pct": 95.1189,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0364",
+    "temperature": 201.8247,
+    "pressure": 4.6446,
+    "rf_power": 1131.5602,
+    "gas_flow": 131.754,
+    "etch_time": 59.16,
+    "yield_pct": 94.1378,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0365",
+    "temperature": 217.6586,
+    "pressure": 4.4046,
+    "rf_power": 1233.113,
+    "gas_flow": 197.7005,
+    "etch_time": 64.632,
+    "yield_pct": 92.2628,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0366",
+    "temperature": 195.4441,
+    "pressure": 5.3578,
+    "rf_power": 631.5677,
+    "gas_flow": 190.6082,
+    "etch_time": 32.6243,
+    "yield_pct": 93.5893,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0367",
+    "temperature": 218.4476,
+    "pressure": 2.9314,
+    "rf_power": 1215.825,
+    "gas_flow": 56.4761,
+    "etch_time": 37.3802,
+    "yield_pct": 75.6411,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0368",
+    "temperature": 216.214,
+    "pressure": 3.0916,
+    "rf_power": 1409.0325,
+    "gas_flow": 74.7222,
+    "etch_time": 63.5185,
+    "yield_pct": 94.6157,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0369",
+    "temperature": 187.8316,
+    "pressure": 7.1707,
+    "rf_power": 679.6831,
+    "gas_flow": 69.7593,
+    "etch_time": 50.59,
+    "yield_pct": 92.7613,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0370",
+    "temperature": 182.7745,
+    "pressure": 7.6767,
+    "rf_power": 737.5433,
+    "gas_flow": 158.897,
+    "etch_time": 73.7504,
+    "yield_pct": 96.6144,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0371",
+    "temperature": 184.0311,
+    "pressure": 4.2399,
+    "rf_power": 1471.3951,
+    "gas_flow": 172.6678,
+    "etch_time": 69.1375,
+    "yield_pct": 94.6277,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0372",
+    "temperature": 180.7289,
+    "pressure": 3.6245,
+    "rf_power": 680.977,
+    "gas_flow": 82.0267,
+    "etch_time": 80.7363,
+    "yield_pct": 92.932,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0373",
+    "temperature": 183.7777,
+    "pressure": 5.864,
+    "rf_power": 1354.3851,
+    "gas_flow": 125.8779,
+    "etch_time": 71.5496,
+    "yield_pct": 97.9516,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0374",
+    "temperature": 207.3203,
+    "pressure": 4.4524,
+    "rf_power": 992.2779,
+    "gas_flow": 176.1055,
+    "etch_time": 55.7959,
+    "yield_pct": 72.2862,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0375",
+    "temperature": 182.8475,
+    "pressure": 2.1523,
+    "rf_power": 747.2311,
+    "gas_flow": 159.9202,
+    "etch_time": 70.378,
+    "yield_pct": 93.0318,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0376",
+    "temperature": 192.759,
+    "pressure": 2.9369,
+    "rf_power": 1370.7499,
+    "gas_flow": 131.3356,
+    "etch_time": 46.5229,
+    "yield_pct": 97.5327,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0377",
+    "temperature": 213.795,
+    "pressure": 6.2958,
+    "rf_power": 945.3053,
+    "gas_flow": 138.5522,
+    "etch_time": 48.3788,
+    "yield_pct": 96.9351,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0378",
+    "temperature": 180.9309,
+    "pressure": 5.9535,
+    "rf_power": 1014.8174,
+    "gas_flow": 126.2541,
+    "etch_time": 77.3391,
+    "yield_pct": 65.1088,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0379",
+    "temperature": 212.5787,
+    "pressure": 2.1626,
+    "rf_power": 859.2334,
+    "gas_flow": 94.6323,
+    "etch_time": 56.7852,
+    "yield_pct": 92.0095,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0380",
+    "temperature": 239.0711,
+    "pressure": 3.3318,
+    "rf_power": 1092.9509,
+    "gas_flow": 134.7533,
+    "etch_time": 77.9028,
+    "yield_pct": 63.8421,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0381",
+    "temperature": 184.7266,
+    "pressure": 3.3864,
+    "rf_power": 663.5239,
+    "gas_flow": 153.3328,
+    "etch_time": 79.3453,
+    "yield_pct": 97.6581,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0382",
+    "temperature": 207.8695,
+    "pressure": 6.0314,
+    "rf_power": 891.0815,
+    "gas_flow": 180.9984,
+    "etch_time": 81.4537,
+    "yield_pct": 97.6203,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0383",
+    "temperature": 205.1577,
+    "pressure": 2.1183,
+    "rf_power": 1469.4123,
+    "gas_flow": 145.4437,
+    "etch_time": 84.9981,
+    "yield_pct": 95.9155,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0384",
+    "temperature": 215.0989,
+    "pressure": 2.6247,
+    "rf_power": 758.1334,
+    "gas_flow": 164.1682,
+    "etch_time": 55.8591,
+    "yield_pct": 95.4719,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0385",
+    "temperature": 209.4028,
+    "pressure": 6.7995,
+    "rf_power": 1156.7367,
+    "gas_flow": 74.0107,
+    "etch_time": 49.132,
+    "yield_pct": 93.3745,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0386",
+    "temperature": 212.1392,
+    "pressure": 3.0713,
+    "rf_power": 825.1901,
+    "gas_flow": 119.2336,
+    "etch_time": 64.9319,
+    "yield_pct": 97.8325,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0387",
+    "temperature": 191.2814,
+    "pressure": 5.9165,
+    "rf_power": 1273.4731,
+    "gas_flow": 51.3997,
+    "etch_time": 52.2703,
+    "yield_pct": 95.5148,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0388",
+    "temperature": 187.0976,
+    "pressure": 3.4291,
+    "rf_power": 630.8737,
+    "gas_flow": 87.0018,
+    "etch_time": 66.0645,
+    "yield_pct": 92.1905,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0389",
+    "temperature": 210.0246,
+    "pressure": 10.2645,
+    "rf_power": 1469.821,
+    "gas_flow": 158.9693,
+    "etch_time": 72.3352,
+    "yield_pct": 68.9249,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0390",
+    "temperature": 212.2734,
+    "pressure": 3.459,
+    "rf_power": 953.7895,
+    "gas_flow": 198.7715,
+    "etch_time": 71.3043,
+    "yield_pct": 94.1349,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0391",
+    "temperature": 219.6202,
+    "pressure": 6.3336,
+    "rf_power": 736.0505,
+    "gas_flow": 64.8767,
+    "etch_time": 52.4732,
+    "yield_pct": 69.2568,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0392",
+    "temperature": 196.5047,
+    "pressure": 7.1342,
+    "rf_power": 573.4967,
+    "gas_flow": 110.2241,
+    "etch_time": 40.0116,
+    "yield_pct": 92.8101,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0393",
+    "temperature": 194.8807,
+    "pressure": 6.9813,
+    "rf_power": 669.7579,
+    "gas_flow": 170.0106,
+    "etch_time": 55.8318,
+    "yield_pct": 92.625,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0394",
+    "temperature": 211.0565,
+    "pressure": 4.3831,
+    "rf_power": 1019.7739,
+    "gas_flow": 80.6053,
+    "etch_time": 38.5556,
+    "yield_pct": 93.0229,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0395",
+    "temperature": 193.6321,
+    "pressure": 6.0085,
+    "rf_power": 837.0032,
+    "gas_flow": 133.2627,
+    "etch_time": 83.4058,
+    "yield_pct": 95.1203,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0396",
+    "temperature": 237.107,
+    "pressure": 3.2299,
+    "rf_power": 1328.8834,
+    "gas_flow": 159.9607,
+    "etch_time": 50.7526,
+    "yield_pct": 71.31,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0397",
+    "temperature": 214.3365,
+    "pressure": 3.7589,
+    "rf_power": 930.8875,
+    "gas_flow": 142.3978,
+    "etch_time": 39.2676,
+    "yield_pct": 93.0019,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0398",
+    "temperature": 197.1598,
+    "pressure": 7.378,
+    "rf_power": 748.7143,
+    "gas_flow": 78.2037,
+    "etch_time": 31.5269,
+    "yield_pct": 97.8268,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0399",
+    "temperature": 210.0348,
+    "pressure": 2.078,
+    "rf_power": 1117.145,
+    "gas_flow": 103.3077,
+    "etch_time": 68.7493,
+    "yield_pct": 95.2709,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0400",
+    "temperature": 210.1817,
+    "pressure": 2.5131,
+    "rf_power": 1206.7772,
+    "gas_flow": 167.5688,
+    "etch_time": 68.2141,
+    "yield_pct": 92.9771,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0401",
+    "temperature": 184.125,
+    "pressure": 3.2473,
+    "rf_power": 667.0419,
+    "gas_flow": 133.134,
+    "etch_time": 50.4362,
+    "yield_pct": 95.0344,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0402",
+    "temperature": 216.1021,
+    "pressure": 2.1592,
+    "rf_power": 667.6192,
+    "gas_flow": 50.7844,
+    "etch_time": 34.3027,
+    "yield_pct": 92.9987,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0403",
+    "temperature": 200.2101,
+    "pressure": 3.0886,
+    "rf_power": 536.6714,
+    "gas_flow": 164.1486,
+    "etch_time": 54.5777,
+    "yield_pct": 95.9219,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0404",
+    "temperature": 213.0583,
+    "pressure": 5.4982,
+    "rf_power": 1236.402,
+    "gas_flow": 55.2967,
+    "etch_time": 48.673,
+    "yield_pct": 94.8603,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0405",
+    "temperature": 192.802,
+    "pressure": 4.5285,
+    "rf_power": 1163.8045,
+    "gas_flow": 161.8601,
+    "etch_time": 70.6272,
+    "yield_pct": 93.7638,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0406",
+    "temperature": 215.8209,
+    "pressure": 7.356,
+    "rf_power": 974.6309,
+    "gas_flow": 80.3721,
+    "etch_time": 66.3468,
+    "yield_pct": 97.3388,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0407",
+    "temperature": 195.5681,
+    "pressure": 6.9047,
+    "rf_power": 1344.1704,
+    "gas_flow": 193.711,
+    "etch_time": 51.8756,
+    "yield_pct": 92.0597,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0408",
+    "temperature": 180.4335,
+    "pressure": 4.0509,
+    "rf_power": 1305.6702,
+    "gas_flow": 105.1911,
+    "etch_time": 43.0736,
+    "yield_pct": 97.1578,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0409",
+    "temperature": 216.2153,
+    "pressure": 3.5565,
+    "rf_power": 1085.3544,
+    "gas_flow": 99.0397,
+    "etch_time": 89.2822,
+    "yield_pct": 95.9236,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0410",
+    "temperature": 183.6515,
+    "pressure": 4.2782,
+    "rf_power": 1368.2713,
+    "gas_flow": 72.3332,
+    "etch_time": 57.2401,
+    "yield_pct": 96.3348,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0411",
+    "temperature": 192.7725,
+    "pressure": 5.5418,
+    "rf_power": 705.8412,
+    "gas_flow": 95.8406,
+    "etch_time": 71.2965,
+    "yield_pct": 95.3136,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0412",
+    "temperature": 218.0025,
+    "pressure": 3.6084,
+    "rf_power": 611.9196,
+    "gas_flow": 181.4976,
+    "etch_time": 38.4332,
+    "yield_pct": 97.0361,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0413",
+    "temperature": 218.0243,
+    "pressure": 5.7449,
+    "rf_power": 769.7496,
+    "gas_flow": 199.4502,
+    "etch_time": 59.1354,
+    "yield_pct": 77.4827,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0414",
+    "temperature": 202.9375,
+    "pressure": 4.4565,
+    "rf_power": 557.0869,
+    "gas_flow": 105.2464,
+    "etch_time": 31.6522,
+    "yield_pct": 66.9618,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0415",
+    "temperature": 205.2735,
+    "pressure": 10.354,
+    "rf_power": 1031.1695,
+    "gas_flow": 117.2916,
+    "etch_time": 60.3273,
+    "yield_pct": 76.4917,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0416",
+    "temperature": 197.9378,
+    "pressure": 4.6168,
+    "rf_power": 1436.6057,
+    "gas_flow": 158.3106,
+    "etch_time": 87.841,
+    "yield_pct": 93.5745,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0417",
+    "temperature": 191.7284,
+    "pressure": 3.7668,
+    "rf_power": 539.3435,
+    "gas_flow": 182.9294,
+    "etch_time": 53.0524,
+    "yield_pct": 93.0097,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0418",
+    "temperature": 193.1466,
+    "pressure": 7.6907,
+    "rf_power": 622.1099,
+    "gas_flow": 138.9567,
+    "etch_time": 32.3398,
+    "yield_pct": 94.9173,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0419",
+    "temperature": 206.9007,
+    "pressure": 6.5816,
+    "rf_power": 952.199,
+    "gas_flow": 108.7289,
+    "etch_time": 31.8573,
+    "yield_pct": 96.7728,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0420",
+    "temperature": 210.095,
+    "pressure": 2.8407,
+    "rf_power": 1433.875,
+    "gas_flow": 111.8933,
+    "etch_time": 53.2792,
+    "yield_pct": 93.3517,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0421",
+    "temperature": 211.6632,
+    "pressure": 7.2108,
+    "rf_power": 816.1561,
+    "gas_flow": 154.3427,
+    "etch_time": 39.6015,
+    "yield_pct": 94.0143,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0422",
+    "temperature": 211.5847,
+    "pressure": 4.9246,
+    "rf_power": 1007.2348,
+    "gas_flow": 50.4827,
+    "etch_time": 31.4011,
+    "yield_pct": 96.8363,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0423",
+    "temperature": 183.6482,
+    "pressure": 7.3673,
+    "rf_power": 541.5729,
+    "gas_flow": 142.9384,
+    "etch_time": 75.3728,
+    "yield_pct": 92.9666,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0424",
+    "temperature": 199.7768,
+    "pressure": 6.7991,
+    "rf_power": 648.3432,
+    "gas_flow": 103.324,
+    "etch_time": 57.5114,
+    "yield_pct": 97.3309,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0425",
+    "temperature": 235.1432,
+    "pressure": 4.5513,
+    "rf_power": 1486.6301,
+    "gas_flow": 169.1296,
+    "etch_time": 47.3547,
+    "yield_pct": 67.4998,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0426",
+    "temperature": 201.9812,
+    "pressure": 2.1348,
+    "rf_power": 1465.1187,
+    "gas_flow": 63.9486,
+    "etch_time": 84.005,
+    "yield_pct": 97.8223,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0427",
+    "temperature": 197.6612,
+    "pressure": 3.6121,
+    "rf_power": 504.94,
+    "gas_flow": 138.2303,
+    "etch_time": 36.9683,
+    "yield_pct": 94.2271,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0428",
+    "temperature": 215.5082,
+    "pressure": 5.2498,
+    "rf_power": 1451.8118,
+    "gas_flow": 122.1459,
+    "etch_time": 87.3551,
+    "yield_pct": 97.4278,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0429",
+    "temperature": 194.0366,
+    "pressure": 5.8009,
+    "rf_power": 1139.1199,
+    "gas_flow": 146.3488,
+    "etch_time": 48.838,
+    "yield_pct": 93.9376,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0430",
+    "temperature": 184.6827,
+    "pressure": 3.5473,
+    "rf_power": 1367.9183,
+    "gas_flow": 59.728,
+    "etch_time": 83.3042,
+    "yield_pct": 93.5108,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0431",
+    "temperature": 185.7197,
+    "pressure": 2.8361,
+    "rf_power": 954.7399,
+    "gas_flow": 136.9976,
+    "etch_time": 66.1766,
+    "yield_pct": 93.7084,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0432",
+    "temperature": 210.4604,
+    "pressure": 7.0096,
+    "rf_power": 1015.596,
+    "gas_flow": 134.2227,
+    "etch_time": 79.6024,
+    "yield_pct": 92.4366,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0433",
+    "temperature": 204.7287,
+    "pressure": 7.9064,
+    "rf_power": 988.8466,
+    "gas_flow": 134.099,
+    "etch_time": 89.0408,
+    "yield_pct": 92.5862,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0434",
+    "temperature": 243.3414,
+    "pressure": 5.1541,
+    "rf_power": 1166.8643,
+    "gas_flow": 140.5231,
+    "etch_time": 47.3043,
+    "yield_pct": 71.2669,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0435",
+    "temperature": 183.3643,
+    "pressure": 3.0301,
+    "rf_power": 639.6513,
+    "gas_flow": 151.4702,
+    "etch_time": 87.6681,
+    "yield_pct": 93.9243,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0436",
+    "temperature": 208.0388,
+    "pressure": 3.6338,
+    "rf_power": 529.9736,
+    "gas_flow": 170.7483,
+    "etch_time": 53.3689,
+    "yield_pct": 93.1853,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0437",
+    "temperature": 182.9105,
+    "pressure": 2.1103,
+    "rf_power": 807.9299,
+    "gas_flow": 90.4731,
+    "etch_time": 53.1307,
+    "yield_pct": 96.8029,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0438",
+    "temperature": 212.8744,
+    "pressure": 7.4858,
+    "rf_power": 1204.6808,
+    "gas_flow": 173.7574,
+    "etch_time": 50.4232,
+    "yield_pct": 93.9008,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0439",
+    "temperature": 208.2497,
+    "pressure": 2.7065,
+    "rf_power": 701.8535,
+    "gas_flow": 124.7384,
+    "etch_time": 62.4845,
+    "yield_pct": 96.0207,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0440",
+    "temperature": 183.254,
+    "pressure": 5.4591,
+    "rf_power": 1173.4324,
+    "gas_flow": 61.5587,
+    "etch_time": 39.2487,
+    "yield_pct": 93.4092,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0441",
+    "temperature": 183.3935,
+    "pressure": 3.6443,
+    "rf_power": 1469.912,
+    "gas_flow": 58.7826,
+    "etch_time": 63.2227,
+    "yield_pct": 92.1503,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0442",
+    "temperature": 219.4656,
+    "pressure": 5.3251,
+    "rf_power": 593.9007,
+    "gas_flow": 100.1357,
+    "etch_time": 62.5023,
+    "yield_pct": 95.3419,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0443",
+    "temperature": 194.9708,
+    "pressure": 5.9085,
+    "rf_power": 1172.6021,
+    "gas_flow": 167.7345,
+    "etch_time": 75.7141,
+    "yield_pct": 94.8452,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0444",
+    "temperature": 194.8257,
+    "pressure": 6.9785,
+    "rf_power": 943.7502,
+    "gas_flow": 156.1521,
+    "etch_time": 80.019,
+    "yield_pct": 92.3302,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0445",
+    "temperature": 212.512,
+    "pressure": 3.2385,
+    "rf_power": 1368.1423,
+    "gas_flow": 168.2922,
+    "etch_time": 56.4265,
+    "yield_pct": 68.149,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0446",
+    "temperature": 217.8899,
+    "pressure": 2.066,
+    "rf_power": 677.1498,
+    "gas_flow": 127.5904,
+    "etch_time": 48.14,
+    "yield_pct": 77.5362,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0447",
+    "temperature": 219.44,
+    "pressure": 2.8213,
+    "rf_power": 1192.626,
+    "gas_flow": 116.0298,
+    "etch_time": 45.5601,
+    "yield_pct": 96.4093,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0448",
+    "temperature": 210.1351,
+    "pressure": 10.4264,
+    "rf_power": 1338.1153,
+    "gas_flow": 72.1179,
+    "etch_time": 41.6774,
+    "yield_pct": 76.3323,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0449",
+    "temperature": 195.0504,
+    "pressure": 7.2433,
+    "rf_power": 1444.6142,
+    "gas_flow": 99.2289,
+    "etch_time": 33.4589,
+    "yield_pct": 96.4832,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0450",
+    "temperature": 183.34,
+    "pressure": 5.5845,
+    "rf_power": 1183.248,
+    "gas_flow": 115.1029,
+    "etch_time": 50.5469,
+    "yield_pct": 95.394,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0451",
+    "temperature": 211.0859,
+    "pressure": 5.6031,
+    "rf_power": 997.1748,
+    "gas_flow": 63.2901,
+    "etch_time": 46.2149,
+    "yield_pct": 94.9633,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0452",
+    "temperature": 202.3362,
+    "pressure": 5.9902,
+    "rf_power": 1117.8472,
+    "gas_flow": 83.0918,
+    "etch_time": 87.985,
+    "yield_pct": 92.2314,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0453",
+    "temperature": 196.9689,
+    "pressure": 3.0522,
+    "rf_power": 1368.905,
+    "gas_flow": 139.7338,
+    "etch_time": 63.4625,
+    "yield_pct": 92.6696,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0454",
+    "temperature": 216.2542,
+    "pressure": 7.4865,
+    "rf_power": 1070.6097,
+    "gas_flow": 160.3495,
+    "etch_time": 50.8366,
+    "yield_pct": 94.8782,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0455",
+    "temperature": 184.4479,
+    "pressure": 10.1877,
+    "rf_power": 530.3871,
+    "gas_flow": 199.7521,
+    "etch_time": 64.8281,
+    "yield_pct": 71.9564,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0456",
+    "temperature": 199.705,
+    "pressure": 4.2988,
+    "rf_power": 1430.9487,
+    "gas_flow": 189.967,
+    "etch_time": 38.3518,
+    "yield_pct": 92.9781,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0457",
+    "temperature": 180.4541,
+    "pressure": 10.2227,
+    "rf_power": 1189.5268,
+    "gas_flow": 146.3848,
+    "etch_time": 56.6426,
+    "yield_pct": 77.8349,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0458",
+    "temperature": 198.7464,
+    "pressure": 2.2818,
+    "rf_power": 1176.5134,
+    "gas_flow": 113.1872,
+    "etch_time": 67.5741,
+    "yield_pct": 94.7681,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0459",
+    "temperature": 182.2521,
+    "pressure": 2.9977,
+    "rf_power": 715.6752,
+    "gas_flow": 145.4266,
+    "etch_time": 59.3339,
+    "yield_pct": 94.0097,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0460",
+    "temperature": 184.7527,
+    "pressure": 6.4282,
+    "rf_power": 1158.8855,
+    "gas_flow": 167.8477,
+    "etch_time": 54.1067,
+    "yield_pct": 92.7638,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0461",
+    "temperature": 184.701,
+    "pressure": 2.4968,
+    "rf_power": 893.8644,
+    "gas_flow": 67.7504,
+    "etch_time": 89.6309,
+    "yield_pct": 95.5333,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0462",
+    "temperature": 205.9684,
+    "pressure": 5.6189,
+    "rf_power": 1151.233,
+    "gas_flow": 111.4857,
+    "etch_time": 82.8189,
+    "yield_pct": 97.53,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0463",
+    "temperature": 209.8418,
+    "pressure": 3.4721,
+    "rf_power": 606.593,
+    "gas_flow": 175.9703,
+    "etch_time": 67.4044,
+    "yield_pct": 95.9094,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0464",
+    "temperature": 203.3348,
+    "pressure": 4.3358,
+    "rf_power": 1157.8453,
+    "gas_flow": 107.5749,
+    "etch_time": 64.1626,
+    "yield_pct": 94.4094,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0465",
+    "temperature": 218.4869,
+    "pressure": 3.7322,
+    "rf_power": 1499.4137,
+    "gas_flow": 135.7808,
+    "etch_time": 67.2396,
+    "yield_pct": 66.1483,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0466",
+    "temperature": 194.9948,
+    "pressure": 4.134,
+    "rf_power": 548.212,
+    "gas_flow": 138.1654,
+    "etch_time": 42.0787,
+    "yield_pct": 95.9431,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0467",
+    "temperature": 191.4285,
+    "pressure": 6.3143,
+    "rf_power": 1477.1742,
+    "gas_flow": 77.6714,
+    "etch_time": 53.7083,
+    "yield_pct": 93.1271,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0468",
+    "temperature": 214.744,
+    "pressure": 3.7827,
+    "rf_power": 906.908,
+    "gas_flow": 104.3353,
+    "etch_time": 32.3676,
+    "yield_pct": 92.4905,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0469",
+    "temperature": 188.9438,
+    "pressure": 5.3984,
+    "rf_power": 1370.7535,
+    "gas_flow": 100.1767,
+    "etch_time": 58.5328,
+    "yield_pct": 93.4822,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0470",
+    "temperature": 218.5289,
+    "pressure": 4.8563,
+    "rf_power": 1282.3855,
+    "gas_flow": 53.9295,
+    "etch_time": 62.5815,
+    "yield_pct": 92.9425,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0471",
+    "temperature": 180.4862,
+    "pressure": 5.982,
+    "rf_power": 1067.0163,
+    "gas_flow": 53.6288,
+    "etch_time": 43.665,
+    "yield_pct": 70.7634,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0472",
+    "temperature": 218.7952,
+    "pressure": 7.621,
+    "rf_power": 1238.4492,
+    "gas_flow": 174.7546,
+    "etch_time": 87.8417,
+    "yield_pct": 92.7623,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0473",
+    "temperature": 181.7264,
+    "pressure": 6.3954,
+    "rf_power": 1378.5156,
+    "gas_flow": 90.9606,
+    "etch_time": 84.5673,
+    "yield_pct": 97.272,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0474",
+    "temperature": 215.6457,
+    "pressure": 3.2896,
+    "rf_power": 904.1403,
+    "gas_flow": 127.7118,
+    "etch_time": 73.3286,
+    "yield_pct": 92.9724,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0475",
+    "temperature": 201.108,
+    "pressure": 2.1871,
+    "rf_power": 827.0332,
+    "gas_flow": 94.8088,
+    "etch_time": 62.0032,
+    "yield_pct": 94.2657,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0476",
+    "temperature": 219.7186,
+    "pressure": 3.5736,
+    "rf_power": 1167.5934,
+    "gas_flow": 191.1019,
+    "etch_time": 82.1981,
+    "yield_pct": 93.6735,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0477",
+    "temperature": 182.9519,
+    "pressure": 5.5705,
+    "rf_power": 1307.8459,
+    "gas_flow": 88.8945,
+    "etch_time": 37.8391,
+    "yield_pct": 97.0909,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0478",
+    "temperature": 202.1542,
+    "pressure": 2.3086,
+    "rf_power": 1262.2851,
+    "gas_flow": 114.4485,
+    "etch_time": 77.4306,
+    "yield_pct": 92.0453,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0479",
+    "temperature": 218.7721,
+    "pressure": 4.9782,
+    "rf_power": 1297.8136,
+    "gas_flow": 180.9095,
+    "etch_time": 37.4892,
+    "yield_pct": 70.9481,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0480",
+    "temperature": 200.9239,
+    "pressure": 5.5811,
+    "rf_power": 935.5833,
+    "gas_flow": 176.29,
+    "etch_time": 77.6526,
+    "yield_pct": 95.0466,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0481",
+    "temperature": 205.1759,
+    "pressure": 4.0055,
+    "rf_power": 1317.8342,
+    "gas_flow": 77.9152,
+    "etch_time": 46.5461,
+    "yield_pct": 75.5761,
+    "true_cause": "rf_instability"
+  },
+  {
+    "lot_id": "LOT_0482",
+    "temperature": 207.8299,
+    "pressure": 6.6255,
+    "rf_power": 620.2091,
+    "gas_flow": 170.3965,
+    "etch_time": 82.6254,
+    "yield_pct": 97.2526,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0483",
+    "temperature": 198.1816,
+    "pressure": 2.6396,
+    "rf_power": 1044.4891,
+    "gas_flow": 118.728,
+    "etch_time": 86.6425,
+    "yield_pct": 95.8688,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0484",
+    "temperature": 205.1023,
+    "pressure": 2.4508,
+    "rf_power": 505.7587,
+    "gas_flow": 122.4453,
+    "etch_time": 38.9278,
+    "yield_pct": 74.556,
+    "true_cause": "particle_spike"
+  },
+  {
+    "lot_id": "LOT_0485",
+    "temperature": 203.3726,
+    "pressure": 6.3691,
+    "rf_power": 824.5858,
+    "gas_flow": 70.022,
+    "etch_time": 57.7605,
+    "yield_pct": 95.6468,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0486",
+    "temperature": 216.0463,
+    "pressure": 4.9729,
+    "rf_power": 866.4615,
+    "gas_flow": 62.0902,
+    "etch_time": 88.8592,
+    "yield_pct": 92.4058,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0487",
+    "temperature": 181.8179,
+    "pressure": 9.7994,
+    "rf_power": 896.1727,
+    "gas_flow": 159.1909,
+    "etch_time": 59.0044,
+    "yield_pct": 80.4119,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0488",
+    "temperature": 191.2385,
+    "pressure": 4.609,
+    "rf_power": 1195.4672,
+    "gas_flow": 124.4692,
+    "etch_time": 81.8129,
+    "yield_pct": 97.3136,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0489",
+    "temperature": 218.0165,
+    "pressure": 3.4784,
+    "rf_power": 888.5581,
+    "gas_flow": 115.5276,
+    "etch_time": 65.3239,
+    "yield_pct": 93.0109,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0490",
+    "temperature": 215.6106,
+    "pressure": 6.9146,
+    "rf_power": 948.6936,
+    "gas_flow": 159.4262,
+    "etch_time": 52.5198,
+    "yield_pct": 97.7015,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0491",
+    "temperature": 235.7765,
+    "pressure": 6.7965,
+    "rf_power": 737.5441,
+    "gas_flow": 164.8269,
+    "etch_time": 47.147,
+    "yield_pct": 71.8968,
+    "true_cause": "temp_excursion"
+  },
+  {
+    "lot_id": "LOT_0492",
+    "temperature": 204.8053,
+    "pressure": 6.1682,
+    "rf_power": 873.2518,
+    "gas_flow": 73.8362,
+    "etch_time": 42.1934,
+    "yield_pct": 92.0964,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0493",
+    "temperature": 191.0952,
+    "pressure": 3.6329,
+    "rf_power": 727.2696,
+    "gas_flow": 141.5338,
+    "etch_time": 75.7079,
+    "yield_pct": 97.453,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0494",
+    "temperature": 187.5248,
+    "pressure": 5.5414,
+    "rf_power": 573.1959,
+    "gas_flow": 70.3031,
+    "etch_time": 53.1924,
+    "yield_pct": 93.9836,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0495",
+    "temperature": 198.5479,
+    "pressure": 4.1658,
+    "rf_power": 1103.4486,
+    "gas_flow": 162.7063,
+    "etch_time": 60.6765,
+    "yield_pct": 96.8314,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0496",
+    "temperature": 194.1341,
+    "pressure": 2.5495,
+    "rf_power": 1168.2128,
+    "gas_flow": 148.5433,
+    "etch_time": 59.5395,
+    "yield_pct": 96.4123,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0497",
+    "temperature": 203.3462,
+    "pressure": 9.8587,
+    "rf_power": 1119.4903,
+    "gas_flow": 193.4922,
+    "etch_time": 64.6367,
+    "yield_pct": 78.1284,
+    "true_cause": "pressure_drift"
+  },
+  {
+    "lot_id": "LOT_0498",
+    "temperature": 183.1094,
+    "pressure": 2.8209,
+    "rf_power": 963.494,
+    "gas_flow": 60.3437,
+    "etch_time": 81.9346,
+    "yield_pct": 96.7325,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0499",
+    "temperature": 218.9758,
+    "pressure": 7.7014,
+    "rf_power": 879.7858,
+    "gas_flow": 58.5582,
+    "etch_time": 88.8444,
+    "yield_pct": 93.5727,
+    "true_cause": null
+  },
+  {
+    "lot_id": "LOT_0500",
+    "temperature": 219.4484,
+    "pressure": 4.676,
+    "rf_power": 1363.3336,
+    "gas_flow": 92.3281,
+    "etch_time": 54.4551,
+    "yield_pct": 97.2093,
+    "true_cause": null
+  }
+]
